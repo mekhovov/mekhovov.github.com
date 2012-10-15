@@ -41,7 +41,7 @@ html, body {
 .tag_box {
 	list-style:none;
 	margin:0;
-	padding:5px 0 ;
+	padding: 0;
 	overflow:hidden;
 }
 .tag_box li {
@@ -122,6 +122,10 @@ h1, h2, h3, h4, h5, h6{
   color: white;
 }
 
+h1 small, h2 small, h3 small, h4 small, h5 small, h6 small {
+color: #ddd;
+}
+
 .content a, footer a {
    color: white;
    text-decoration: underline;
@@ -143,8 +147,9 @@ img
 }
 
 /***************  navigation content**************/
-.navbar-inner {
-  background:url(../images/carousal_mid.png) repeat-x bottom left;
+.navbar-inner  {
+  background:  url(../images/carousal_mid.png) repeat-x bottom left;
+  border: none;
   /*height:56px;*/
 }
 
@@ -152,7 +157,7 @@ img
     width: 937px;
     margin: 0px auto;
     background:url(../images/bg11px.png) top left repeat-y;
-    /*margin-top: 40px;*/
+    margin-top: 40px;
 }
 
 .page-header {
@@ -160,6 +165,8 @@ img
   background: url(../images/transp_white30.png);
   text-shadow: rgba(0, 0, 0, 0.496094) 0px -1px 0px;
   border: none;
+  height: 40px;
+  padding: 1px 10px 15px 15px;
 }
 
 .page-header h1{
@@ -202,6 +209,61 @@ height:10px;
 width:958px;
 }
 
+
+
+.box_topleft
+{
+  float:left;
+  width:7px; 
+  height:7px;
+  background:url(../images/transp_ltcor.png) no-repeat bottom left;
+}
+.box_topmid
+{
+  background:url(../images/transp_top.png) repeat-x top left; 
+  height:7px; 
+  float:left; 
+  width:246px;
+}
+.box_topright
+{
+float:right;
+  width:7px; 
+  height:7px;
+  background:url(../images/transp_rtcor.png) no-repeat top left;
+}
+.box_ltborder
+{
+  background:url(../images/transp_ltborder.png) repeat-y top left;
+  padding-left:10px;
+}
+.box_rtborder
+{
+  background:url(../images/transp_rtborder.png) repeat-y top right;
+  padding-right:10px;
+}
+.box_btmmid
+{
+  background:url(../images/transp_btm.png) repeat-x top left; 
+  height:20px; 
+  float:left; 
+  width:246px;
+}
+.box_btmright
+{
+float:right;
+  width:7px; 
+  height:20px;
+  background:url(../images/transp_b_rtcor.png) no-repeat top left;
+}
+.box_btmleft
+{
+  float:left;
+  width:7px; 
+  height:20px;
+  background:url(../images/transp_b_ltcor.png)no-repeat top left;
+}
+
 footer {
   background:url(../images/footer_bg1.png) top left;
   text-align:center;
@@ -229,13 +291,91 @@ footer {
   border-right-style: solid;
   border-right-width: 1px;
 }
-
-.navbar .nav a:hover {
+.post_name a {
+  background: none;
+  border: none;
+  color: white;
+  font-size: 16px;
+}
+.navbar .nav li a:hover {
   background:  url(../images/transp_blk.png);
+  color: #ccc;
 }
 .navbar .nav li a {
   color: white;
   font-size: 16px;
   padding-left: 30px;
   padding-right: 30px;
+  text-shadow: 0 1px 0 #222;
+}
+.navbar-inner .container > a {
+  color: white;
+  text-shadow: 0 1px 0 #222;
+  color: rgb(215, 172, 1);
+}
+
+.reposname {
+  background-color: rgba(250, 250, 250, 0.6);
+  /*background: url(../images/transp_white30.png);*/
+  /*text-shadow: rgba(0, 0, 0, 0.496094) 0px -1px 0px;*/
+  border: none;
+}
+
+.repos {
+  margin-left: 70px;
+}
+
+#sidebar-container {
+  /*border-left-color: rgb(255, 255, 255);
+  border-left-style: dashed;
+  border-left-width: 1px;*/
+  width: 280px;
+  /*padding-left: 10px;*/
+}
+
+#sidebar-container .box {
+  margin-left: 20px;
+  /*padding: 10px;*/
+}
+#sidebar-container ul {
+  padding-left: 10px;
+}
+#main-container .page-header {
+  margin-right: 0px;
+}
+#sidebar-container .page-header {
+  margin-right: -37px;
+}
+#sidebar-container h3 {
+  margin: 0;
+}
+ul.social {
+  margin: 0;
+}
+ul.social li {
+  background: none;
+  float: left;
+}
+ul.social li {
+  /*background: url(/images/arrow-bullet.gif) no-repeat left top;*/
+  list-style:none;
+  padding-right:8px;
+}
+
+
+.side_list {
+  margin: 0;
+padding: 5px 0;
+overflow: hidden;
+}
+ul.side_list li {
+  margin: 0;
+  list-style: none;
+}
+
+.navbar .nav > li > a {
+/*float: none;*/
+/*padding: 10px 15px 10px;*/
+/*color: #777777;*/
+text-shadow: 0 1px 0 #222;
 }
