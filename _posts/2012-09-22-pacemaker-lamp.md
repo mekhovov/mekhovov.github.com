@@ -23,8 +23,7 @@ tags: [conference, pacemaker, ru]
 
 Видео тизер
 
-<iframe width="640" height="360" src="http://www.youtube.com/embed/q-oy1EbXRUY" frameborder="0" allowfullscreen></iframe>
-
+<iframe width="640" height="360" src="http://www.youtube.com/embed/AwMi43wWoXg" frameborder="0" allowfullscreen></iframe>
 Pacemaker Team !
 
 ![Пасемакеры!](/images/life/pacemakers_03.jpg "Пасемакеры!")
