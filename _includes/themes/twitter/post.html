@@ -28,10 +28,6 @@
     </div>
 
   <div class="span8">
-    {% include JB/comments %}
-  </div>
-  
-  <div class="span8">
     <div class="pagination">
       <ul>
       {% if page.previous %}
@@ -55,6 +51,12 @@
     {% for post in site.related_posts %}
       <a href="{{ post.url }}">{{ post.title }}</a><br />
     {% endfor %}
+    <br><br>
   </div>
+
+  <div class="span8">
+    {% include JB/comments %}
+  </div>
+  
 
 </div>
