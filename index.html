@@ -12,7 +12,7 @@ group: navigation
 {% for post in site.posts %}
     <div class="span8">
       <h1><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h1>
-      {{ post.content }}
+      {{ post.content | truncatehtml: 200 }} <a href="{{ post.url }}" title="{{ post.title }}"> read more ➜</a>
     <br><hr>
     </div>
     <div class="span5">
