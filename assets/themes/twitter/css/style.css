@@ -379,3 +379,19 @@ ul.side_list li {
 /*color: #777777;*/
 text-shadow: 0 1px 0 #222;
 }
+
+.pagination ul > li > a, .pagination ul > li > span {
+  text-shadow: rgba(20, 20, 20, 0.896094) 0px -1px 0px;
+  background-color: rgba(190, 190, 190, 0.299219);
+  height: 28px;
+  line-height: 28px;
+}
+
+.pagination ul > li.prev > a {
+ border-top-left-radius: 10px; 
+ border-bottom-left-radius: 10px; 
+}
+.pagination ul > li.next > a {
+ border-top-fight-radius: 10px; 
+ border-bottom-right-radius: 10px; 
+}
