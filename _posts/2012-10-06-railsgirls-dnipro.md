@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Rails Girls"
+header: Dnipropetrovsk
 category: life
 tags: [conference, ru]
 ---
@@ -20,15 +21,16 @@ tags: [conference, ru]
 
 Статья [Лени Шевцова](http://leonid.shevtsov.me/ru/railsgirls-2012-post-mortem) о событии
 
+Статья в блоге [RailsGirls-Dnipropetrovsk: Happy Сoding](http://blog.railsgirls.com/post/33651656873/railsgirls-dnipropetrovsk-happy-coding)
 
 
-Видео в процессе..
+Видео в процессе обработки..
 
 
 
 
 
-Девочки сделали сайты:
+#### Девочки сделали сайты:
 
 ##### Crazy Ruby Girls - party
 * [http://appynec.herokuapp.com](http://appynec.herokuapp.com)
