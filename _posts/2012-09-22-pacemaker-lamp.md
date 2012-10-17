@@ -14,7 +14,7 @@ tags: [conference, pacemaker, ru]
 
 Сайт [http://pacemaker.softserve.ua/lamp-2012/about](http://pacemaker.softserve.ua/lamp-2012/about)
 
-Аленка рассказывала выступала с докладом Using and scaling Rack and Rack-based middleware [презентация](http://pacemaker.softserve.ua/slides/lamp-2012/Alona_Mekhovova-Using_and_scaling_Rack_and%20Rack-based_middleware.pdf) и [видео](http://youtu.be/6hbJEeGDpZU)
+Аленка выступала с докладом Using and scaling Rack and Rack-based middleware [презентация](http://pacemaker.softserve.ua/slides/lamp-2012/Alona_Mekhovova-Using_and_scaling_Rack_and%20Rack-based_middleware.pdf) и [видео](http://youtu.be/6hbJEeGDpZU)
 
 ![Аленка!](/images/life/pacemaker_alony.jpg "Аленка!")
 
