@@ -33,7 +33,7 @@ group: navigation
     <!-- <h3 class="post_date">{{ post.date | date_to_string }}</h3> -->
 
     <div class='span9'> 
-      {{ post.content | truncatehtml: 200 }} 
+      {{ post.preview }} <!-- post.content | truncatehtml: 200 -->
     </div>
     <div class="span3">
       <a href="{{ post.url }}" title="{{ post.title }}"> read more ➜</a>
@@ -45,7 +45,7 @@ group: navigation
       <span class="date">
         <ul class="tag_box inline">
           {% for tag in post.tags %}
-          <li> <a href="/tags.html?{{ tag }}" title="{{ tag }}">{{ tag }}</a> </li>
+          <li> <a href="/tags/{{ tag }}" title="{{ tag }}">{{ tag }}</a> </li>
           {% endfor %}
         </ul>
       </span>

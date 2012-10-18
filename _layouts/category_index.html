@@ -2,7 +2,7 @@
 layout: default
 ---
 
-
+<h3> Posts in Category: {{ page.category }}</h3>
 
 {% for post in site.categories[page.category] %}
   <div class="row top">
@@ -28,7 +28,7 @@ layout: default
     <!-- <h3 class="post_date">{{ post.date | date_to_string }}</h3> -->
 
     <div class='span9'> 
-      {{ post.content | truncatehtml: 200 }} 
+      <!-- { { post.content | truncatehtml: 200 } }  -->
     </div>
     <div class="span3">
       <a href="{{ post.url }}" title="{{ post.title }}"> read more ➜</a>

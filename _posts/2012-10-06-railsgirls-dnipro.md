@@ -14,12 +14,13 @@ tags: [conference, railsgirls, ru]
 
 Ивент прошел супер-классно, оставив море положительных эмоций и воспоминаний.
 
-#### Оффициальная страничка ивента в Днепропетровске
+##### Оффициальная страничка ивента в Днепропетровске
 * [http://railsgirls.com/dnipropetrovsk](http://railsgirls.com/dnipropetrovsk)
 
-#### Следующий ивент планируем сделать в Киеве 7-8 декабря
+##### Следующий ивент планируем сделать в Киеве 7-8 декабря
 * [http://railsgirls.com/kiev](http://railsgirls.com/kiev)
 
+<!-- -**-END-**- --> 
 #### Фотки 
 * [Part-1 on Facebook](http://www.facebook.com/media/set/?set=a.195389347262361.48964.163129323821697&type=3)
 * [Part-2 on Facebook](http://www.facebook.com/media/set/?set=a.195392280595401.48965.163129323821697&type=3)
@@ -37,17 +38,12 @@ tags: [conference, railsgirls, ru]
 
 #### Девочки сделали сайты:
 
-* Crazy Ruby Girls (party): [http://appynec.herokuapp.com](http://appynec.herokuapp.com), [http://party-site.herokuapp.com](http://party-site.herokuapp.com)
-
-* HardRuby (travel): [http://travelliya.herokuapp.com](http://travelliya.herokuapp.com)
-
-* Rails Chicks (cookbook): [http://cookgirls.herokuapp.com](http://cookgirls.herokuapp.com), [http://ruslana.herokuapp.com](http://ruslana.herokuapp.com)
-
-* RubyMix (party): [http://devil-tinto.herokuapp.com](http://devil-tinto.herokuapp.com)
-
-* Rails Masyanya (travel): [http://placesapp.herokuapp.com](http://placesapp.herokuapp.com)
-
-* Brilliant Mind (travel): [http://murmuring-scrubland-9104.herokuapp.com](http://murmuring-scrubland-9104.herokuapp.com), [http://brilliant-trip.herokuapp.com](http://brilliant-trip.herokuapp.com)
+* Crazy Ruby Girls (party): [appynec](http://appynec.herokuapp.com), [party-site](http://party-site.herokuapp.com)
+* HardRuby (travel): [travelliya](http://travelliya.herokuapp.com)
+* Rails Chicks (cookbook): [cookgirls](http://cookgirls.herokuapp.com), [ruslana](http://ruslana.herokuapp.com)
+* RubyMix (party): [devil-tinto](http://devil-tinto.herokuapp.com)
+* Rails Masyanya (travel): [placesapp](http://placesapp.herokuapp.com)
+* Brilliant Mind (travel): [murmuring-scrubland-9104](http://murmuring-scrubland-9104.herokuapp.com), [brilliant-trip](http://brilliant-trip.herokuapp.com)
 
 
 
