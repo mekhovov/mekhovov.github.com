@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Rails Girls"
-category: my life
+category: my_life
 tags: [me speaker, conference, railsgirls, ru]
 ---
 {% include JB/setup %}

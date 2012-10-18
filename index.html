@@ -11,6 +11,7 @@ group: navigation
 
 
 {% for post in site.posts %}
+<div class=" post cat_{{ post.categories }}">
   <div class="row top">
       <div class="clip clip-with-details clip-icon clip-globe">
       <div class="clipTop"></div>
@@ -29,7 +30,7 @@ group: navigation
       {% endfor %}
     </h3>
   </div>
-  <div class='row post cat_{{ post.categories }}'>
+  <div class='row post_body '>
     <!-- <h2 class="post_title"><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2> -->
     <!-- <h3 class="post_date">{{ post.date | date_to_string }}</h3> -->
 
@@ -64,6 +65,8 @@ group: navigation
       <span class="comment_count"><a href="{{ post.url }}/#comments" title="Comment on {{ post.title }}">Comments..</a></span>
                               
     </div>
+  </div>
+
   </div>
     
 {% endfor %}

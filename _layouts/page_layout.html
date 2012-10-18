@@ -52,36 +52,77 @@
 
       <div class="content">
 
-            
 
-        <div class="row top">
+        <div class="row">
+          <div class="span11">
+              
+            <div class=" post">
 
-            <div class="clip clip-with-details clip-icon clip-globe">
-              <div class="clipTop"></div>
-              <div class="clipMiddle">
-                <!-- <a href="{{ post.url }}"> -->
-                  <h3>{{ page.title }}</h3>
-                  <!-- <span class="clipDetails">{{ page.tagline }}</span> -->
-                <!-- </a> -->
+              <div class="row top">
+
+                  <div class="clip clip-with-details clip-icon clip-globe">
+                    <div class="clipTop"></div>
+                    <div class="clipMiddle">
+                      <!-- <a href="{{ post.url }}"> -->
+                        <h3>{{ page.title }}</h3>
+                        <!-- <span class="clipDetails">{{ page.tagline }}</span> -->
+                      <!-- </a> -->
+                    </div>
+                    <div class="clipBottom">
+                    </div>
+                  </div>
+                   
+                  
+                </div>
+
+                <div class='row post_body'>
+                  
+                    {{ content }}
+
+
+                </div>
+                <div class="row bottom">
+                  <div class="meta">
+                  </div>
+                </div>
+            </div>
+          </div>
+
+
+
+          <div class="span1 sidebar">
+
+
+              <div class="row top">
+                <h3 class="categoty">
+                    <a href="/categories.html" title="Categories" rel="category">Categories</a>
+                </h3>
               </div>
-              <div class="clipBottom">
+            <div class='row post cat_{{ post.categories }}'>
+
+              <div class='span2'> 
+                <ul class="side_list">
+                  {% for category in site.categories %}
+                  <li><a href="/categories/{{category | first}}">{{category | first}} ({{category | last | size }})</a></li>
+                  {% endfor %}
+                </ul> 
+
+
+              </div>
+
+            </div>
+            <div class="row bottom">
+              <div class="meta">
+                                        
               </div>
             </div>
-             
-            
-          </div>
 
-          <div class='row post'>
-            
-              {{ content }}
 
 
           </div>
-          <div class="row bottom">
-            <div class="meta">
-            </div>
-          </div>
 
+
+        </div>
 
 
 

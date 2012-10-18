@@ -4,9 +4,9 @@ layout: default
 {% include JB/setup %}
 
 
+<div class=" post cat_{{ post.categories }}">
 
-
-<div class="row top">
+  <div class="row top">
       <div class="clip clip-with-details clip-icon clip-globe">
       <div class="clipTop"></div>
       <div class="clipMiddle">
@@ -25,7 +25,7 @@ layout: default
     </h3>
   </div>
 
-  <div class='row post cat_{{ page.categories }}'>
+  <div class='row post_body cat_{{ page.categories }}_body'>
 
     <div class='span9'> 
       {{ content }} 
@@ -79,7 +79,7 @@ layout: default
                               
   </div>
 
-
+</div>
   
 
 
