@@ -34,12 +34,21 @@ group: navigation
     <!-- <h3 class="post_date">{{ post.date | date_to_string }}</h3> -->
 
     <div class='span9'> 
-      {{ post.content }} <!-- post.content | truncatehtml: 200 -->
+      {% assign breakIndex = -1 %}
+            {% for element in post.content %}
+              {% if element contains '<!-- -**-END-**- -->' %}
+                {% assign breakIndex = forloop.index %}
+              {% endif %}
+            {% endfor %}
+
+            {% for element in post.content limit: breakIndex %}
+              {{ element }}
+            {% endfor %}
 
 
     </div>
     <div class="span3">
-      <!-- <a href="{{ post.url }}" title="{{ post.title }}"> read more ➜</a> -->
+      <a href="{{ post.url }}" title="{{ post.title }}"> read more ➜</a>
     </div>
 
   </div>
