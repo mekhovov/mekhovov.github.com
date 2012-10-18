@@ -20,7 +20,8 @@ tags: [conference, railsgirls, ru]
 ##### Следующий ивент планируем сделать в Киеве 7-8 декабря
 * [http://railsgirls.com/kiev](http://railsgirls.com/kiev)
 
-<!-- -**-END-**- --> 
+<!-- -**-END-**- -->
+
 #### Фотки 
 * [Part-1 on Facebook](http://www.facebook.com/media/set/?set=a.195389347262361.48964.163129323821697&type=3)
 * [Part-2 on Facebook](http://www.facebook.com/media/set/?set=a.195392280595401.48965.163129323821697&type=3)

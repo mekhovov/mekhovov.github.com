@@ -15,7 +15,9 @@ tags: [skydive, ru]
 Видео прыжка
 
 <iframe width="640" height="360" src="http://www.youtube.com/embed/BT5XWXS62kQ" frameborder="0" allowfullscreen></iframe>
-<!-- -**-END-**- --> 
+
+<!-- -**-END-**- -->
+
 Версия от инструктора
 
 <iframe width="640" height="360" src="http://www.youtube.com/embed/xqoze4xF99Q" frameborder="0" allowfullscreen></iframe>

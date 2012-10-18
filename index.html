@@ -9,6 +9,7 @@ group: navigation
 
 
 
+
 {% for post in site.posts %}
   <div class="row top">
       <div class="clip clip-with-details clip-icon clip-globe">
@@ -33,10 +34,12 @@ group: navigation
     <!-- <h3 class="post_date">{{ post.date | date_to_string }}</h3> -->
 
     <div class='span9'> 
-      {{ post.preview }} <!-- post.content | truncatehtml: 200 -->
+      {{ post.content }} <!-- post.content | truncatehtml: 200 -->
+
+
     </div>
     <div class="span3">
-      <a href="{{ post.url }}" title="{{ post.title }}"> read more ➜</a>
+      <!-- <a href="{{ post.url }}" title="{{ post.title }}"> read more ➜</a> -->
     </div>
 
   </div>
