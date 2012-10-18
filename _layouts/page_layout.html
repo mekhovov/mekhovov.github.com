@@ -90,39 +90,75 @@
 
 
 
-          <div class="span1 sidebar">
+          <div class="span1">
 
+            <!-- Categories -->
+            <div class="row sidebar">
+                <div class="row top">
+                  <h3 class="categoty"><a href="/categories.html" title="Categories" rel="category">Categories</a></h3>
+                </div>
+              <div class='row sidebar_body'>
+                <div class='span2'> 
+                  
+                  <ul class="side_list">
+                    {% for category in site.categories %}
+                    <li><a href="/categories.html#{{category | first}}">{{category | first}} ({{category | last | size }})</a></li>
+                    {% endfor %}
+                  </ul> 
 
-              <div class="row top">
-                <h3 class="categoty">
-                    <a href="/categories.html" title="Categories" rel="category">Categories</a>
-                </h3>
+                </div>
               </div>
-            <div class='row post cat_{{ post.categories }}'>
-
-              <div class='span2'> 
-                <ul class="side_list">
-                  {% for category in site.categories %}
-                  <li><a href="/categories/{{category | first}}">{{category | first}} ({{category | last | size }})</a></li>
-                  {% endfor %}
-                </ul> 
-
-
-              </div>
-
-            </div>
-            <div class="row bottom">
-              <div class="meta">
-                                        
+              <div class="row bottom">
+                <div class="meta"></div>
               </div>
             </div>
 
+
+            <!-- Recent Posts -->
+            <div class="row sidebar">
+                <div class="row top">
+                  <h3 class="categoty"><a href="/index.html" title="Categories" rel="category">Recent Posts</a></h3>
+                </div>
+              <div class='row sidebar_body'>
+                <div class='span2'> 
+                  
+                  <ul class="side_list">
+                    {% for post in site.posts limit:10 %}
+                    <li>
+                      <a href="{{ post.url }}" title="{{ post.title }}" rel="bookmark">{{ post.title }}</a>
+                    </li>
+                    {% endfor %}
+                  </ul> 
+
+                </div>
+              </div>
+              <div class="row bottom">
+                <div class="meta"></div>
+              </div>
+            </div>
+
+            <!-- Tags -->
+            <div class="row sidebar">
+                <div class="row top">
+                  <h3 class="categoty"><a href="/tags.html" title="Categories" rel="category">Tags</a></h3>
+                </div>
+              <div class='row sidebar_body'>
+                <div class='span2'> 
+                  
+                  <ul class="tag_box inline">
+                    {% assign tags_list = site.tags %}  
+                    {% include JB/tags_list %}
+                  </ul>
+
+                </div>
+              </div>
+              <div class="row bottom">
+                <div class="meta"></div>
+              </div>
+            </div>
 
 
           </div>
-
-
-        </div>
 
 
 
