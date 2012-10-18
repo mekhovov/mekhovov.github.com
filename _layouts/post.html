@@ -20,7 +20,7 @@ layout: default
     </div>
     <h3 class="categoty">
       {% for category in page.categories %}
-        <a href="/categories/{{ category }}" title="{{ category }}" rel="category tag">{{ category }}</a>
+        <a href="/categories.html#{{ category }}" title="{{ category }}" rel="category tag">{{ category }}</a>
       {% endfor %}
     </h3>
   </div>
@@ -45,7 +45,7 @@ layout: default
     </div>
 
 
-    <div class="span9">
+    <div class="span9" id='comments'>
       {% include JB/comments %}
     </div>
 
@@ -55,7 +55,7 @@ layout: default
       <span class="date">
         <ul class="tag_box inline">
           {% for tag in page.tags %}
-          <li> <a href="/tags/{{ tag }}" title="{{ tag }}">{{ tag }}</a> </li>
+          <li> <a href="/tags.html#{{ tag }}" title="{{ tag }}">{{ tag }}</a> </li>
           {% endfor %}
         </ul>
       </span>

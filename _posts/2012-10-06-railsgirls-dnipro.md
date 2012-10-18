@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Rails Girls"
-category: life
-tags: [conference, railsgirls, ru]
+category: my life
+tags: [me speaker, conference, railsgirls, ru]
 ---
 {% include JB/setup %}
 
@@ -20,20 +20,22 @@ tags: [conference, railsgirls, ru]
 ##### Следующий ивент планируем сделать в Киеве 7-8 декабря
 * [http://railsgirls.com/kiev](http://railsgirls.com/kiev)
 
+Я выступал в роли ведущего и рассказывал о том [что такое: internet, web-site, CSS, HTML и JS]( http://dont-fear-internet.pp.ua/)
+
 <!-- -**-END-**- -->
 
 #### Фотки 
-* [Part-1 on Facebook](http://www.facebook.com/media/set/?set=a.195389347262361.48964.163129323821697&type=3)
-* [Part-2 on Facebook](http://www.facebook.com/media/set/?set=a.195392280595401.48965.163129323821697&type=3)
-* [Part-3 on GooglePlus](https://plus.google.com/photos/108854724146968003782/albums/5796468822708486961)
+* [part-1 on Facebook](http://www.facebook.com/media/set/?set=a.195389347262361.48964.163129323821697&type=3)
+* [part-2 on Facebook](http://www.facebook.com/media/set/?set=a.195392280595401.48965.163129323821697&type=3)
+* [oart-3 on GooglePlus](https://plus.google.com/photos/108854724146968003782/albums/5796468822708486961)
 
 #### Презентации 
 * [все презентации]( https://speakerdeck.com/u/rg_ukraine)
-* [Презентация Dont Fear The Internet]( http://dont-fear-internet.pp.ua/)
+* [dont fear the internet]( http://dont-fear-internet.pp.ua/)
 
 #### Статьи о событии
-* [Статья Лени Шевцова](http://leonid.shevtsov.me/ru/railsgirls-2012-post-mortem)
-* [Статья в блоге RailsGirls: Dnipropetrovsk - Happy Сoding](http://blog.railsgirls.com/post/33651656873/railsgirls-dnipropetrovsk-happy-coding)
+* [статья Лени Шевцова](http://leonid.shevtsov.me/ru/railsgirls-2012-post-mortem)
+* [статья в блоге RailsGirls: Dnipropetrovsk - Happy Сoding](http://blog.railsgirls.com/post/33651656873/railsgirls-dnipropetrovsk-happy-coding)
 
 
 

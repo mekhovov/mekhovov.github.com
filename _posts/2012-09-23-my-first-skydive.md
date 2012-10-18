@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Первый Прыжок"
-category: life
+category: my life
 tags: [skydive, ru]
 ---
 {% include JB/setup %}

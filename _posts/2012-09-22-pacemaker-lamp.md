@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Pacemaker:LAMP Conference"
-category: life
+category: my life
 tags: [conference, pacemaker, ru]
 ---
 {% include JB/setup %}
