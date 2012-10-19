@@ -17,8 +17,8 @@ tags: [me speaker, conference, railsgirls, ru]
 ##### Оффициальная страничка ивента в Днепропетровске
 * [http://railsgirls.com/dnipropetrovsk](http://railsgirls.com/dnipropetrovsk)
 
-##### Следующий ивент планируем сделать в Киеве 7-8 декабря
-* [http://railsgirls.com/kiev](http://railsgirls.com/kiev)
+##### Организаторы (rubygarage.org) решили поддержать Киевское сообщество девушек-разработчиков
+* Киев, 7-8 декабря [http://railsgirls.com/kiev](http://railsgirls.com/kiev)  [подробнее](http://dou.ua/calendar/2407/)
 
 Я выступал в роли ведущего и рассказывал о том [что такое: internet, web-site, CSS, HTML и JS]( http://dont-fear-internet.pp.ua/)
 
@@ -35,8 +35,8 @@ tags: [me speaker, conference, railsgirls, ru]
 
 #### Статьи о событии
 * [статья Лени Шевцова](http://leonid.shevtsov.me/ru/railsgirls-2012-post-mortem)
-* [статья в блоге RailsGirls: Dnipropetrovsk - Happy Сoding](http://blog.railsgirls.com/post/33651656873/railsgirls-dnipropetrovsk-happy-coding)
-
+* [RailsGirls: Dnipropetrovsk - Happy Сoding](http://blog.railsgirls.com/post/33651656873/railsgirls-dnipropetrovsk-happy-coding)
+* [DataArt: Девушки на «рельсах» добрались до Днепра](http://www.dataart.ru/blog/2012/10/devushki-na-relsah-dobralis-do-dnepra/)
 
 
 #### Девочки сделали сайты:
