@@ -17,8 +17,8 @@ tags: [me speaker, conference, railsgirls, ru]
 ##### Оффициальная страничка ивента в Днепропетровске
 * [http://railsgirls.com/dnipropetrovsk](http://railsgirls.com/dnipropetrovsk)
 
-##### Организаторы (rubygarage.org) решили поддержать Киевское сообщество девушек-разработчиков
-* Киев, 7-8 декабря [http://railsgirls.com/kiev](http://railsgirls.com/kiev)  [подробнее](http://dou.ua/calendar/2407/)
+##### Организаторы (RubyGarage)[http://rubygarage.org] решили поддержать Киевское сообщество девушек
+* Киев, 7-8 декабря [http://railsgirls.com/kiev](http://railsgirls.com/kiev),   [подробнее](http://dou.ua/calendar/2407/)
 
 Я выступал в роли ведущего и рассказывал о том [что такое: internet, web-site, CSS, HTML и JS]( http://dont-fear-internet.pp.ua/)
 
