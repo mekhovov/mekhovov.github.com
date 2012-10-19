@@ -512,6 +512,11 @@ ul.social img {
    border-bottom-right-radius: 10px; 
 }
 
+.post .addthis_toolbox {
+  float: right;
+}
 
-
+footer .addthis_toolbox {
+  float: right;
+}
 

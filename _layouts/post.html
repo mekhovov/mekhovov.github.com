@@ -29,12 +29,11 @@ layout: default
 
     <div class='span9'> 
       {{ content }} 
+      <hr>
     </div>
 
     
-    <div class="span9">
-      <br>
-      <hr>
+    <div class="span4">
       <h3>Related posts</h3>
       <ul>
         {% for post in site.related_posts %}
@@ -42,6 +41,18 @@ layout: default
         {% endfor %}
       </ul>
       <br>
+    </div>
+
+    <div class="span5">
+      <!-- AddThis Button BEGIN -->
+        <div class="addthis_toolbox addthis_default_style ">
+        <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+        <a class="addthis_button_tweet"></a>
+        <a class="addthis_counter addthis_pill_style"></a>
+        </div>
+        <script type="text/javascript">var addthis_config = {"data_track_addressbar":true};</script>
+        <script type="text/javascript" src="http://s7.addthis.com/js/300/addthis_widget.js#pubid=ra-50815d307531d654"></script>
+      <!-- AddThis Button END -->
     </div>
 
 
