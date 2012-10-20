@@ -2,21 +2,22 @@
 layout: post
 title: "IT Weekend, Kyiv"
 category: conference
-tags: [me speaker, it-weekend, ru]
+tags: [speaker, it-weekend, ru]
 ---
 {% include JB/setup %}
 
 
 
-#### IT Weekend, Киев
 
 ![IT Weekend, Киев](/images/conference/it-weekend-01.jpg "IT Weekend, Киев")
 
+#### IT Weekend, Киев
+
 Выступал на [IT Weekend](http://ukraine.itweekend.com.ua) в Киеве.
 
-<!-- -**-END-**- -->
-
 Рассказывал о [Responsive Web Design: one site for many devices](http://rwd.pp.ua)
+
+<!-- -**-END-**- -->
 
 ![IT Weekend, Киев](/images/conference/it-weekend-02.jpg "IT Weekend, Киев")
 

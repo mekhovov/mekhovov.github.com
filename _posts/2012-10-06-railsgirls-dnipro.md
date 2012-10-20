@@ -2,23 +2,19 @@
 layout: post
 title: "Rails Girls, Dnepr"
 category: conference
-tags: [me speaker, railsgirls, ru]
+tags: [speaker, railsgirls, co-organizer, ru]
 ---
 {% include JB/setup %}
 
 
+![RailsGirls 2012 Днепропетровск](/images/life/railsgirls.jpg "RailsGirls 2012 Днепропетровск")
 
 #### RailsGirls 2012 Днепропетровск
 
-![RailsGirls 2012 Днепропетровск](/images/life/railsgirls.jpg "RailsGirls 2012 Днепропетровск")
+[Ивент](http://railsgirls.com/dnipropetrovsk) прошел супер-классно, оставив море положительных эмоций и воспоминаний.
 
-Ивент прошел супер-классно, оставив море положительных эмоций и воспоминаний.
 
-##### Оффициальная страничка ивента в Днепропетровске
-* [http://railsgirls.com/dnipropetrovsk](http://railsgirls.com/dnipropetrovsk)
-
-##### Организаторы [RubyGarage](http://rubygarage.org) решили поддержать Киевское сообщество девушек
-* Киев, 7-8 декабря [http://railsgirls.com/kiev](http://railsgirls.com/kiev),   [подробнее](http://dou.ua/calendar/2407/)
+Организаторы [RubyGarage](http://rubygarage.org) решили поддержать Киевское сообщество девушек. [Киев, 7-8 декабря](http://railsgirls.com/kiev),   [подробнее](http://dou.ua/calendar/2407/)
 
 Я выступал в роли ведущего и рассказывал о том [что такое: internet, web-site, CSS, HTML и JS]( http://dont-fear-internet.pp.ua/)
 
