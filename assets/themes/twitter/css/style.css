@@ -439,11 +439,21 @@ p {
 }
 
 
-.cat_my_life_body img {
+.post_body img {
   border: 5px solid white;
   margin-bottom: 10px;
   -webkit-box-shadow: rgba(0,0,0,.4) 0 2px 5px;
   -moz-box-shadow: rgba(0,0,0,.4) 0 2px 5px;
+}
+
+.page .post_body img {
+  border: none;
+  -webkit-box-shadow: none;
+  -moz-box-shadow: none;
+}
+
+blockquote {
+  border-left: 4px solid #e5ccaf;
 }
 
 .grey {
