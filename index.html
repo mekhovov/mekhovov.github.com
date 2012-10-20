@@ -34,17 +34,15 @@ group: navigation
 
     <div class='span9'> 
       {% assign breakIndex = -1 %}
-            {% for element in post.content %}
-              {% if element contains '<!-- -**-END-**- -->' %}
-                {% assign breakIndex = forloop.index %}
-              {% endif %}
-            {% endfor %}
+        {% for element in post.content %}
+          {% if element contains '<!-- -**-END-**- -->' %}
+            {% assign breakIndex = forloop.index %}
+          {% endif %}
+        {% endfor %}
 
-            {% for element in post.content limit: breakIndex %}
-              {{ element }}
-            {% endfor %}
-    </div>
-    <div class="span3">
+        {% for element in post.content limit: breakIndex %}
+          {{ element }}
+        {% endfor %}
       <a href="{{ post.url }}" title="{{ post.title }}"> read more ➜</a>
     </div>
 
