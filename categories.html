@@ -10,6 +10,7 @@ header: Posts By Category
   {% include JB/categories_list %}
 </ul>
 
+<hr>
 
 {% for category in site.categories %} 
   <h2 id="{{ category[0] }}">{{ category[0] | join: "/" }}</h2>
