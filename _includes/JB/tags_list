@@ -22,11 +22,26 @@ Usage:
 {% else %}
   {% if tags_list.first[0] == null %}
     {% for tag in tags_list %} 
-    	<li><a href="{{ BASE_PATH }}{{ site.JB.tags_path }}#{{ tag }}">{{ tag }} <span>{{ site.tags[tag].size }}</span></a></li>
+      <li class="tag">
+        <a href="{{ BASE_PATH }}{{ site.JB.tags_path }}#{{ tag }}">
+          <span class="tag-button">
+            <span class="tag-count"> {{ site.tags[tag].size }} </span>
+            <span class="tag-name"> {{ tag }} </span>
+          </span>
+        </a>
+      </li>
+
     {% endfor %}
   {% else %}
     {% for tag in tags_list %} 
-    	<li><a href="{{ BASE_PATH }}{{ site.JB.tags_path }}#{{ tag[0] }}">{{ tag[0] }} <span>{{ tag[1].size }}</span></a></li>
+      <li class="tag">
+        <a href="{{ BASE_PATH }}{{ site.JB.tags_path }}#{{ tag[0] }}">
+          <span class="tag-button">
+            <span class="tag-count"> {{ tag[1].size }} </span>
+            <span class="tag-name"> {{ tag[0] }} </span>
+          </span>
+        </a>
+      </li>
     {% endfor %}
   {% endif %}
 {% endif %}
