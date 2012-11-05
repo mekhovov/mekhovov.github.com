@@ -643,3 +643,28 @@ footer .addthis_toolbox {
   margin-top: 0px;
 }
 
+
+.cat_guides_body table {
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+
+.cat_guides_body table th,
+.cat_guides_body table td {
+  padding: 8px;
+  line-height: 20px;
+  text-align: left;
+  vertical-align: top;
+  border-top: 1px solid #ccc;
+}
+
+.cat_guides_body table tbody tr:hover td,
+.cat_guides_body table  tbody tr:hover th {
+  background-color: #e5ccaf;
+}
+
+.cat_guides_body table tbody tr:nth-child(odd) td,
+.cat_guides_body table tbody tr:nth-child(odd) th {
+  background-color: #e9ddaf;
+}

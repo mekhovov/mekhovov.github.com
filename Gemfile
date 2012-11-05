@@ -5,3 +5,4 @@ gem "jekyll_ext"
 gem "liquid", '2.2.2'
 gem "nokogiri"
 gem "rdiscount"
+gem 'RedCloth'
