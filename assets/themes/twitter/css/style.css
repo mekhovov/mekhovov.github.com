@@ -644,14 +644,14 @@ footer .addthis_toolbox {
 }
 
 
-.cat_guides_body table {
+.cat_guide_body table {
   width: 100%;
   margin-bottom: 20px;
 }
 
 
-.cat_guides_body table th,
-.cat_guides_body table td {
+.cat_guide_body table th,
+.cat_guide_body table td {
   padding: 8px;
   line-height: 20px;
   text-align: left;
@@ -659,12 +659,12 @@ footer .addthis_toolbox {
   border-top: 1px solid #ccc;
 }
 
-.cat_guides_body table tbody tr:hover td,
-.cat_guides_body table  tbody tr:hover th {
+.cat_guide_body table tbody tr:hover td,
+.cat_guide_body table  tbody tr:hover th {
   background-color: #e5ccaf;
 }
 
-.cat_guides_body table tbody tr:nth-child(odd) td,
-.cat_guides_body table tbody tr:nth-child(odd) th {
+.cat_guide_body table tbody tr:nth-child(odd) td,
+.cat_guide_body table tbody tr:nth-child(odd) th {
   background-color: #e9ddaf;
 }

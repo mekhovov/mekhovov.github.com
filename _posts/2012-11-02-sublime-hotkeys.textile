@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Sublime: hotkeys"
-category: guides
+category: guide
 tags: [sublime, en]
 ---
 {% include JB/setup %}
@@ -9,6 +9,17 @@ tags: [sublime, en]
 
 h2. Sublime Text 2 - Useful Shortcuts
 
+!/images/guides/sublime.png!
+
+Screencast: "Perfect Workflow in Sublime Text 2":https://tutsplus.com/course/improve-workflow-in-sublime-text-2/
+
+"Tips and Tricks":http://net.tutsplus.com/tutorials/tools-and-tips/sublime-text-2-tips-and-tricks/?search_index=7
+
+"Essential Sublime Text 2 Plugins and Extensions":http://net.tutsplus.com/tutorials/tools-and-tips/essential-sublime-text-2-plugins-and-extensions/?search_index=4
+
+Forked from "gist":https://gist.github.com/1207002
+
+<!-- -**-END-**- -->
 
 bq. General
 
