@@ -33,7 +33,7 @@ tags: [speaker, rubycon, ru]
 
 Видео моего выступления
 
-<iframe width="640" height="360" src="http://youtu.be/joCUjjfrKmU" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="http://www.youtube.com/embed/joCUjjfrKmU" frameborder="0" allowfullscreen></iframe>
 
 Фотка зала
 
@@ -45,7 +45,7 @@ tags: [speaker, rubycon, ru]
 > Лучшими докладами по результатам онлайн-опроса были признаны выступления Александра Меховова из SoftServe с докладом «RESPONSIVE WEB DESIGN: ONE SITE FOR MANY DEVICES» 
 > и Алексея Васильева из Railsware на тему «CHEF IN ACTION».
 
-<iframe width="640" height="360" src="http://youtu.be/B1Cz4A5jh2M" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="http://www.youtube.com/embed/B1Cz4A5jh2M" frameborder="0" allowfullscreen></iframe>
 
 Все прошло классно! 
 
@@ -65,7 +65,7 @@ Lightning Talks прошел на ура, ребята так впечатлил
 
 Отчетное видео под песню Ruby-Ruby-Ruby:
 
-<iframe width="640" height="360" src="http://youtu.be/pHJFX0hhrHs" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="http://www.youtube.com/embed/pHJFX0hhrHs" frameborder="0" allowfullscreen></iframe>
 
 
 
