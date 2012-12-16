@@ -21,7 +21,7 @@ tags: [speaker, railsgirls, co-organizer, ru]
 <!-- -**-END-**- -->
 
 
-<iframe width="640" height="360" src="http://www.youtube.com/watch?v=QybQdwCnYM4&feature=share&list=PLxKvNsRITEtn4xK4u6XYzTaD81JTcXlMt" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="http://www.youtube.com/embed/QybQdwCnYM4" frameborder="0" allowfullscreen></iframe>
 
 #### Фотки 
 * [part-1 on Facebook](http://www.facebook.com/media/set/?set=a.195389347262361.48964.163129323821697&type=3)

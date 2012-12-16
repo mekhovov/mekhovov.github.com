@@ -33,7 +33,7 @@ tags: [speaker, rubycon, ru]
 
 Видео моего выступления
 
-<iframe width="640" height="360" src="http://www.youtube.com/embed/dO583cGj9QQ?list=PLxKvNsRITEtn4xK4u6XYzTaD81JTcXlMt&amp;hl=en_US" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="http://youtu.be/joCUjjfrKmU" frameborder="0" allowfullscreen></iframe>
 
 Фотка зала
 
@@ -45,7 +45,7 @@ tags: [speaker, rubycon, ru]
 > Лучшими докладами по результатам онлайн-опроса были признаны выступления Александра Меховова из SoftServe с докладом «RESPONSIVE WEB DESIGN: ONE SITE FOR MANY DEVICES» 
 > и Алексея Васильева из Railsware на тему «CHEF IN ACTION».
 
-<iframe width="640" height="360" src="http://www.youtube.com/embed/vyt4FAHQxLY?list=PLxKvNsRITEtn4xK4u6XYzTaD81JTcXlMt&amp;hl=en_US" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="http://youtu.be/B1Cz4A5jh2M" frameborder="0" allowfullscreen></iframe>
 
 Все прошло классно! 
 
@@ -65,7 +65,7 @@ Lightning Talks прошел на ура, ребята так впечатлил
 
 Отчетное видео под песню Ruby-Ruby-Ruby:
 
-<iframe width="640" height="360" src="http://www.youtube.com/embed/pHJFX0hhrHs?list=PLxKvNsRITEtn4xK4u6XYzTaD81JTcXlMt&amp;hl=en_US" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="http://youtu.be/pHJFX0hhrHs" frameborder="0" allowfullscreen></iframe>
 
 
 
@@ -80,11 +80,11 @@ Lightning Talks прошел на ура, ребята так впечатлил
 * [«CLOJURE» - Александр Золотько](http://youtu.be/ENgETP7TRkU)
 * [«ОПЫТ PUSHER & RUBY» - Антон Богарсуков](http://youtu.be/qPwaPqo5JAA)
 * [«ACTIVITY FEED ON RAILS» - Петр Корякин](http://youtu.be/oguLjTvPwlA)
-* [«RESPONSIVE WEB DESIGN: ONE SITE FOR MANY DEVICES» - Александр Меховов]()
+* [«RESPONSIVE WEB DESIGN: ONE SITE FOR MANY DEVICES» - Александр Меховов](http://youtu.be/joCUjjfrKmU)
 * [«OPENSOURCE EDUCATION AND RUBY COMMUNITY» - Владимир Воробьев](http://youtu.be/xISjcuL7Bac)
 * [«Матрица компетенции по Ruby» - Павел Обод](http://youtu.be/EtvRLzEMECU)
 * [LIGHTNING TALKS](http://youtu.be/sh-p0Adx4fI)
-* [Отзывы](http://youtu.be/vyt4FAHQxLY)
+* [Отзывы](http://youtu.be/B1Cz4A5jh2M)
 * [Все выступления](http://www.youtube.com/user/AzaLess/videos?view=0)
 
 #### Презентации 
@@ -105,7 +105,6 @@ Lightning Talks прошел на ура, ребята так впечатлил
 ![RubYcon, Харьков](/images/conference/rubycon-12.jpg "RubYcon, Харьков")
 ![RubYcon, Харьков](/images/conference/rubycon-13.jpg "RubYcon, Харьков")
 ![RubYcon, Харьков](/images/conference/rubycon-14.jpg "RubYcon, Харьков")
-![RubYcon, Харьков](/images/conference/rubycon-15.jpg "RubYcon, Харьков")
 ![RubYcon, Харьков](/images/conference/rubycon-16.jpg "RubYcon, Харьков")
 ![RubYcon, Харьков](/images/conference/rubycon-17.jpg "RubYcon, Харьков")
 ![RubYcon, Харьков](/images/conference/rubycon-18.jpg "RubYcon, Харьков")
