@@ -76,6 +76,11 @@ ul.tags li {
 }
 
 
+.rss img {
+  margin-bottom: -15px;
+  max-height: 45px;
+}
+
 .tags .tag-button .tag-name {
   /*min-width: 56px;*/
   /*width: auto;*/
