@@ -23,6 +23,7 @@
     <script type="text/javascript" src="/js/jquery.min.js"></script>
     <script type="text/javascript" src="{{ ASSET_PATH }}twitter/bootstrap/js/bootstrap.js"></script>
     <script type="text/javascript" src="/js/GitHubWidget.js"></script>
+    <script type="text/javascript" src="/js/app.js"></script>
 
     <!-- Le fav and touch icons -->
   <!-- Update these with your own images
@@ -44,6 +45,7 @@
             {% assign group = 'navigation' %}
             {% include JB/pages_list %}
           </ul>
+          <a class="rss pull-right" href="{{ site.production_url }}/atom.xml" target="_blank" ><img src="/images/rss-feed.png" /></a>
         </div>
       </div>
     </div>
