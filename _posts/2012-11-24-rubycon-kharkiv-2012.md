@@ -68,8 +68,6 @@ Lightning Talks прошел на ура, ребята так впечатлил
 <iframe width="640" height="360" src="http://www.youtube.com/embed/pHJFX0hhrHs" frameborder="0" allowfullscreen></iframe>
 
 
-
-
 #### Фотки 
 * [Facebook](http://www.facebook.com/media/set/?set=a.10200130161001767.2199576.1382916266&type=1)
 * [archive part1](http://www.ex.ua/view_storage/168510341484)
