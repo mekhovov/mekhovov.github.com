@@ -9,11 +9,9 @@ tags: [oh_my_zsh, en]
 
 h2. Oh My ZSH - Cheats
 
-!/images/guides/sublime.png!
+!/images/guides/oh-my-zsh.png!
 
-oh-my-zsh is an open source, community-driven framework for managing your ZSH configuration. 
-
-"Github":https://github.com/robbyrussell/oh-my-zsh
+"oh-my-zsh":https://github.com/robbyrussell/oh-my-zsh is an open source, community-driven framework for managing your ZSH configuration. 
 
 "Railscast":http://railscasts.com/episodes/308-oh-my-zsh
 
