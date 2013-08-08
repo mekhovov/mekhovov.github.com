@@ -5,4 +5,4 @@ Usage
 -----
 
     bundle install
-    ejekyll --server
+    jekyll serve --watch
