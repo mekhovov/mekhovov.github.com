@@ -7,9 +7,9 @@ tags: [sublime, en]
 {% include JB/setup %}
 
 
-#### Sublime Text 2 - Useful Shortcuts
-
 ![Sublime]({{ site.production_url }}/images/guides/sublime.png)
+
+#### Sublime Text 2 - Useful Shortcuts
 
 Screencast: [Perfect Workflow in Sublime Text 2](https://tutsplus.com/course/improve-workflow-in-sublime-text-2/)
 
