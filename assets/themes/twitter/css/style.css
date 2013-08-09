@@ -75,10 +75,15 @@ ul.tags li {
   white-space: nowrap;
 }
 
-
+.rss {
+  position: relative;
+  right: -35px;
+  float: right;
+}
 .rss img {
   margin-bottom: -15px;
-  max-height: 45px;
+  position: absolute;
+  max-height: 50px;
 }
 
 .tags .tag-button .tag-name {
