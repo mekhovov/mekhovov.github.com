@@ -82,8 +82,9 @@ ul.tags li {
 }
 .rss img {
   margin-bottom: -15px;
+  margin-top: -6px;
   position: absolute;
-  max-height: 50px;
+  max-height: 59px;
 }
 
 .tags .tag-button .tag-name {
