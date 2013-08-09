@@ -7,7 +7,7 @@ tags: [pacemaker, co-organizer, ru]
 {% include JB/setup %}
 
 
-![Пасемакеры!](/images/life/pacemakers_01.jpg "Пасемакеры!")
+![Пасемакеры!]({{ site.production_url }}/images/life/pacemakers_01.jpg "Пасемакеры!")
 
 Конференция в Ивано-Франковске - удалась!
 
@@ -17,7 +17,7 @@ tags: [pacemaker, co-organizer, ru]
 
 <!-- more -->
 
-![Аленка!](/images/life/pacemaker_alony.jpg "Аленка!")
+![Аленка!]({{ site.production_url }}/images/life/pacemaker_alony.jpg "Аленка!")
 
 Видео трейлер конференции
 
@@ -25,7 +25,7 @@ tags: [pacemaker, co-organizer, ru]
 
 Pacemaker Team!
 
-![Пасемакеры!](/images/life/pacemakers_03.jpg "Пасемакеры!")
+![Пасемакеры!]({{ site.production_url }}/images/life/pacemakers_03.jpg "Пасемакеры!")
 
-![Пасемакеры!](/images/life/pacemakers_02.jpg "Пасемакеры!")
+![Пасемакеры!]({{ site.production_url }}/images/life/pacemakers_02.jpg "Пасемакеры!")
 

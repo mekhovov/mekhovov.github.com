@@ -8,7 +8,7 @@ tags: [oh_my_zsh, en]
 
 
 
-![RubYcon, Харьков](/images/guides/oh-my-zsh.png "RubYcon, Харьков")
+![Oh My ZSH]({{ site.production_url }}/images/guides/oh-my-zsh.png "Oh My ZSH")
 
 #### Oh My ZSH - Cheats
 

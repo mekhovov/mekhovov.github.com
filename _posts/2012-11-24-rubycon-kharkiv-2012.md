@@ -9,7 +9,7 @@ tags: [speaker, rubycon, ru]
 
 
 
-![RubYcon, Харьков](/images/conference/rubycon-01.png "RubYcon, Харьков")
+![RubYcon, Харьков]({{ site.production_url }}/images/conference/rubycon-01.png "RubYcon, Харьков")
 
 #### RubYcon, Харьков
 
@@ -21,15 +21,15 @@ tags: [speaker, rubycon, ru]
 
 <!-- more -->
 
-![RubYcon, Харьков](/images/conference/rubycon-20.jpg "RubYcon, Харьков")
+![RubYcon, Харьков]({{ site.production_url }}/images/conference/rubycon-20.jpg "RubYcon, Харьков")
 
 Анонс конференции [на сайте Soft Serve](http://softserve.ua/press-center/events/rubycon-2012).
 
-![RubYcon, Харьков](/images/conference/rubycon-03.jpg "RubYcon, Харьков")
+![RubYcon, Харьков]({{ site.production_url }}/images/conference/rubycon-03.jpg "RubYcon, Харьков")
 
 После IT-Weekend'a я добаробал презентацияю, учтя ошибки, добавив демо-сайт, поменяв чуть структуру и расширив раздел с tools. Получилось все лучше, структурированее, нагляднее и живее!
 
-![RubYcon, Харьков](/images/conference/rubycon-04.jpg "RubYcon, Харьков")
+![RubYcon, Харьков]({{ site.production_url }}/images/conference/rubycon-04.jpg "RubYcon, Харьков")
 
 Видео моего выступления
 
@@ -37,7 +37,7 @@ tags: [speaker, rubycon, ru]
 
 Фотка зала
 
-![RubYcon, Харьков](/images/conference/rubycon-02.jpg "RubYcon, Харьков")
+![RubYcon, Харьков]({{ site.production_url }}/images/conference/rubycon-02.jpg "RubYcon, Харьков")
 
 Отрывок из [отчета о конференции](http://dou.ua/lenta/events/kak-dushevno-porubylis-v-harkove):
 
@@ -49,19 +49,19 @@ tags: [speaker, rubycon, ru]
 
 Все прошло классно! 
 
-![RubYcon, Харьков](/images/conference/rubycon-05.jpg "RubYcon, Харьков")
+![RubYcon, Харьков]({{ site.production_url }}/images/conference/rubycon-05.jpg "RubYcon, Харьков")
 
 Организация ивента была на достойном уровне, не смотря на то, что это была первая Харьковская конференция. 
 
 Lightning Talks прошел на ура, ребята так впечатлились, что несколько добробольцев из зала вышли на сцену и выступили экспромтом. 
 
-![RubYcon, Харьков](/images/conference/rubycon-11.jpg "RubYcon, Харьков")
+![RubYcon, Харьков]({{ site.production_url }}/images/conference/rubycon-11.jpg "RubYcon, Харьков")
 
 После обеда был долгожданный экстремальный сюрприз, удерживаемый организаторами в тайне вплоть до часа 'Х'. Это была войнушка в стиле захвата точки в комуфляже с лазерными автоматами! Было очень забавно. Супер идея для конференций, организаторы - молодцы!
 
-![RubYcon, Харьков](/images/conference/rubycon-06.jpg "RubYcon, Харьков")
+![RubYcon, Харьков]({{ site.production_url }}/images/conference/rubycon-06.jpg "RubYcon, Харьков")
 
-![RubYcon, Харьков](/images/conference/rubycon-07.jpg "RubYcon, Харьков")
+![RubYcon, Харьков]({{ site.production_url }}/images/conference/rubycon-07.jpg "RubYcon, Харьков")
 
 Отчетное видео под песню Ruby-Ruby-Ruby:
 
@@ -97,13 +97,13 @@ Lightning Talks прошел на ура, ребята так впечатлил
 * [Facebook](https://www.facebook.com/events/299794680125472/?fref=ts)
 
 
-![RubYcon, Харьков](/images/conference/rubycon-08.jpg "RubYcon, Харьков")
-![RubYcon, Харьков](/images/conference/rubycon-09.jpg "RubYcon, Харьков")
-![RubYcon, Харьков](/images/conference/rubycon-10.jpg "RubYcon, Харьков")
-![RubYcon, Харьков](/images/conference/rubycon-12.jpg "RubYcon, Харьков")
-![RubYcon, Харьков](/images/conference/rubycon-13.jpg "RubYcon, Харьков")
-![RubYcon, Харьков](/images/conference/rubycon-14.jpg "RubYcon, Харьков")
-![RubYcon, Харьков](/images/conference/rubycon-16.jpg "RubYcon, Харьков")
-![RubYcon, Харьков](/images/conference/rubycon-17.jpg "RubYcon, Харьков")
-![RubYcon, Харьков](/images/conference/rubycon-18.jpg "RubYcon, Харьков")
-![RubYcon, Харьков](/images/conference/rubycon-19.jpg "RubYcon, Харьков")
+![RubYcon, Харьков]({{ site.production_url }}/images/conference/rubycon-08.jpg "RubYcon, Харьков")
+![RubYcon, Харьков]({{ site.production_url }}/images/conference/rubycon-09.jpg "RubYcon, Харьков")
+![RubYcon, Харьков]({{ site.production_url }}/images/conference/rubycon-10.jpg "RubYcon, Харьков")
+![RubYcon, Харьков]({{ site.production_url }}/images/conference/rubycon-12.jpg "RubYcon, Харьков")
+![RubYcon, Харьков]({{ site.production_url }}/images/conference/rubycon-13.jpg "RubYcon, Харьков")
+![RubYcon, Харьков]({{ site.production_url }}/images/conference/rubycon-14.jpg "RubYcon, Харьков")
+![RubYcon, Харьков]({{ site.production_url }}/images/conference/rubycon-16.jpg "RubYcon, Харьков")
+![RubYcon, Харьков]({{ site.production_url }}/images/conference/rubycon-17.jpg "RubYcon, Харьков")
+![RubYcon, Харьков]({{ site.production_url }}/images/conference/rubycon-18.jpg "RubYcon, Харьков")
+![RubYcon, Харьков]({{ site.production_url }}/images/conference/rubycon-19.jpg "RubYcon, Харьков")

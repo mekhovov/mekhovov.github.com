@@ -9,7 +9,7 @@ tags: [sublime, en]
 
 #### Sublime Text 2 - Useful Shortcuts
 
-![Sublime](/images/guides/sublime.png)
+![Sublime]({{ site.production_url }}/images/guides/sublime.png)
 
 Screencast: [Perfect Workflow in Sublime Text 2](https://tutsplus.com/course/improve-workflow-in-sublime-text-2/)
 

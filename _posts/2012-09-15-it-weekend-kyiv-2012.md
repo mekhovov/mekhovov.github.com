@@ -9,7 +9,7 @@ tags: [speaker, it-weekend, ru]
 
 
 
-![IT Weekend, Киев](/images/conference/it-weekend-01.jpg "IT Weekend, Киев")
+![IT Weekend, Киев]({{ site.production_url }}/images/conference/it-weekend-01.jpg "IT Weekend, Киев")
 
 #### IT Weekend, Киев
 
@@ -19,15 +19,15 @@ tags: [speaker, it-weekend, ru]
 
 <!-- more -->
 
-![IT Weekend, Киев](/images/conference/it-weekend-02.jpg "IT Weekend, Киев")
+![IT Weekend, Киев]({{ site.production_url }}/images/conference/it-weekend-02.jpg "IT Weekend, Киев")
 
 Анонс выступления можно посмотреть [тут](https://www.facebook.com/photo.php?fbid=416141768445034&set=a.338924286166783.77998.206539466071933&type=1&theater)
 
-![IT Weekend, Киев](/images/conference/it-weekend-03.jpg "IT Weekend, Киев")
+![IT Weekend, Киев]({{ site.production_url }}/images/conference/it-weekend-03.jpg "IT Weekend, Киев")
 
 Фотка зала
 
-![IT Weekend, Киев](/images/conference/it-weekend-04.jpg "IT Weekend, Киев")
+![IT Weekend, Киев]({{ site.production_url }}/images/conference/it-weekend-04.jpg "IT Weekend, Киев")
 
 #### Отзывы
 
@@ -47,16 +47,16 @@ tags: [speaker, it-weekend, ru]
 
 Еще фотки
 
-![IT Weekend, Киев](/images/conference/it-weekend-05.jpg "IT Weekend, Киев")
+![IT Weekend, Киев]({{ site.production_url }}/images/conference/it-weekend-05.jpg "IT Weekend, Киев")
 
-![IT Weekend, Киев](/images/conference/it-weekend-06.jpg "IT Weekend, Киев")
+![IT Weekend, Киев]({{ site.production_url }}/images/conference/it-weekend-06.jpg "IT Weekend, Киев")
 
-![IT Weekend, Киев](/images/conference/it-weekend-07.jpg "IT Weekend, Киев")
+![IT Weekend, Киев]({{ site.production_url }}/images/conference/it-weekend-07.jpg "IT Weekend, Киев")
 
-![IT Weekend, Киев](/images/conference/it-weekend-08.jpg "IT Weekend, Киев")
+![IT Weekend, Киев]({{ site.production_url }}/images/conference/it-weekend-08.jpg "IT Weekend, Киев")
 
-![IT Weekend, Киев](/images/conference/it-weekend-09.jpg "IT Weekend, Киев")
+![IT Weekend, Киев]({{ site.production_url }}/images/conference/it-weekend-09.jpg "IT Weekend, Киев")
 
-![IT Weekend, Киев](/images/conference/it-weekend-10.jpg "IT Weekend, Киев")
+![IT Weekend, Киев]({{ site.production_url }}/images/conference/it-weekend-10.jpg "IT Weekend, Киев")
 
-![IT Weekend, Киев](/images/conference/it-weekend-11.jpg "IT Weekend, Киев")
+![IT Weekend, Киев]({{ site.production_url }}/images/conference/it-weekend-11.jpg "IT Weekend, Киев")

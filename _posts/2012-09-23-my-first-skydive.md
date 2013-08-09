@@ -9,7 +9,7 @@ tags: [skydive, ru]
 
 
 
-![В самолете](/images/life/skydive_01.jpg "В самолете")
+![В самолете]({{ site.production_url }}/images/life/skydive_01.jpg "В самолете")
 
 Да, мы это сделали!
 

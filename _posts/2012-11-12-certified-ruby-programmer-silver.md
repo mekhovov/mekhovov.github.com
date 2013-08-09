@@ -8,7 +8,7 @@ tags: [certification, ru]
 
 
 
-![Certified Ruby Programmer (Silver)](/images/achievements/ruby_certified.jpg "Certified Ruby Programmer (Silver)")
+![Certified Ruby Programmer (Silver)]({{ site.production_url }}/images/achievements/ruby_certified.jpg "Certified Ruby Programmer (Silver)")
 
 #### I’m a Certified Ruby Programmer Silver
 
@@ -21,7 +21,7 @@ tags: [certification, ru]
 <!-- more -->
 
 
-![Ruby Association](/images/achievements/logo_programmer.jpg "Ruby Association")
+![Ruby Association]({{ site.production_url }}/images/achievements/logo_programmer.jpg "Ruby Association")
 
 
 Как и описано в статье [Fabio Kung'а](http://fabiokung.com/2008/08/19/im-a-certified-ruby-programmer-silver/) особое внимание уделать методам Core API и Built-in functions and methods.

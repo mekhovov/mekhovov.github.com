@@ -7,7 +7,7 @@ tags: [speaker, railsgirls, co-organizer, ru]
 {% include JB/setup %}
 
 
-![RailsGirls 2012 Днепропетровск](/images/life/railsgirls.jpg "RailsGirls 2012 Днепропетровск")
+![RailsGirls 2012 Днепропетровск]({{ site.production_url }}/images/life/railsgirls.jpg "RailsGirls 2012 Днепропетровск")
 
 #### RailsGirls 2012 Днепропетровск
 
