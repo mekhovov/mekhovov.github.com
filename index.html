@@ -55,18 +55,17 @@ group: navigation
       <!-- <span class="comment_count"><a href="{{ post.url }}/#comments" title="Comment on {{ post.title }}">Comments..</a></span> -->
       <!-- AddThis Button BEGIN -->
         <div class="addthis_toolbox addthis_default_style " 
-          addthis:url="{{ post.url }}"
-          addthis:title="{{ post.title }} by @mekhovov"
-          addthis:description="An Example Description">
+          addthis:url="{{ site.production_url }}{{ post.url }}"
+          addthis:title="{{ post.title }} by @mekhovov">
         <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
         <a class="addthis_button_tweet"></a>
         <a class="addthis_counter addthis_pill_style"></a>
         </div>
-        <script type="text/javascript">var addthis_config = {"data_track_addressbar":true};</script>
+        <script type="text/javascript">var addthis_config = {"data_track_addressbar":false};</script>
         <script type="text/javascript" src="http://s7.addthis.com/js/300/addthis_widget.js#pubid=ra-50815d307531d654"></script>
       <!-- AddThis Button END -->
       <!-- Xing Button BEGIN -->
-        <span style="display: inline; position:relative; float:right; right:5px" class='pull-right' data-url="{{ post.url }}">
+        <span style="display: inline; position:relative; float:right; right:5px" class='pull-right' data-url="{{ site.production_url }}{{ post.url }}">
           <div data-counter="right" data-type="XING/Share"></div>
             <script>
               ;(function (d, s) {

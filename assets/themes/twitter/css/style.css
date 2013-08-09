@@ -685,3 +685,50 @@ footer .addthis_toolbox {
 .cat_guide_body table tbody tr:nth-child(odd) th {
   background-color: #e9ddaf;
 }
+
+
+
+.social-links {
+  margin-top: 10px;
+}
+
+.follow {
+  display: inline-block;
+  height: 24px;
+  line-height: 24px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  margin-right: 5px;
+  margin-top: 0px;
+  overflow-x: hidden;
+  overflow-y: hidden;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+  position: static;
+  right: auto;
+  text-decoration: none;
+  text-indent: -129987px;
+  width: 24px;
+}
+
+.aticon-facebook { 
+  background-image:url(../images/icon-facebook.png);
+}
+.aticon-google_follow {
+  background-image:url(../images/icon-google.png);
+}
+.aticon-linkedin {
+  background-image:url(../images/icon-linkedin.png);
+}
+.aticon-rss {
+  background-image:url(../images/icon-rss.png);
+}
+.aticon-twitter {
+  background-image:url(../images/icon-twitter.png);
+}
+
+
+
+
