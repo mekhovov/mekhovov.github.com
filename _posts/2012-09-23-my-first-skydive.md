@@ -13,11 +13,13 @@ tags: [skydive, ru]
 
 Да, мы это сделали!
 
-Прыгали с 800 метров с парашютом типа "купол". Львов, Дропзона Цунив.
+Прыгали с 800 метров с парашютом типа "купол". 
+
+Действие происходило во Львове в клубе [Extreme Lviv Club](http://extreme.lviv.ua). Дропзона Цунив.
 
 Видео прыжка
 
-<!-- -**-END-**- -->
+<!-- more -->
 
 <iframe width="640" height="360" src="http://www.youtube.com/embed/BT5XWXS62kQ" frameborder="0" allowfullscreen></iframe>
 

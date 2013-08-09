@@ -14,16 +14,19 @@ tags: [certification, ru]
 
 Сдал сетфикацию [Ruby Association Certified Ruby Programmer Silver](http://www.ruby.or.jp/en/certification/examination/)!
 
+Сертификация относительно не сложная. Готовиться надо. 
 
-<!-- -**-END-**- -->
+Как подготовиться? Читай дальше.
+
+<!-- more -->
 
 
 ![Ruby Association](/images/achievements/logo_programmer.jpg "Ruby Association")
 
-Сертификация относительно не сложная. Готовиться надо. Как и описано в статье [Fabio Kung'а](http://fabiokung.com/2008/08/19/im-a-certified-ruby-programmer-silver/) особое внимание уделать методам Core API и Built-in functions and methods.
 
-Ресурсы, которые помогут подготовиться:
+Как и описано в статье [Fabio Kung'а](http://fabiokung.com/2008/08/19/im-a-certified-ruby-programmer-silver/) особое внимание уделать методам Core API и Built-in functions and methods.
 
+Полезные ресурсы:
 
 #### Tests
 * [Master Ruby with Minituku](http://www.minituku.net/courses/698958345/lessons/767666995/drills/22902467?locale=en) на английском доступны 3 темы
@@ -37,5 +40,5 @@ tags: [certification, ru]
 * [The Ruby Programming Language](http://www.amazon.com/Ruby-Programming-Language-David-Flanagan/dp/0596516177/ref=sr_1_1?ie=UTF8&qid=1353969808&sr=8-1&keywords=ruby+programming+language) глава 9
 * [Programming Ruby 1.9: The Pragmatic Programmers' Guide](http://www.amazon.com/Programming-Ruby-1-9-Pragmatic-Programmers/dp/1934356085/ref=sr_1_3?ie=UTF8&qid=1353969858&sr=8-3&keywords=ruby+programming+language) главы 'Built-in classes and modules' и 'Standard library' - отличный справочник по методам. Не смотря на то, что книга описывает ruby 1.9 а сертификация сдается по ruby 1.8 в книжке все методы, актуальные для 1.9 помечены на полях.
 
-Я планирую описать темы и примеры вопросов позже..
+
 

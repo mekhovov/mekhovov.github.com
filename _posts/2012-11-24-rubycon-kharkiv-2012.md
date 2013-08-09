@@ -19,7 +19,7 @@ tags: [speaker, rubycon, ru]
 
 Отчет: [Как душевно поRUBYлись в Харькове](http://dou.ua/lenta/events/kak-dushevno-porubylis-v-harkove)
 
-<!-- -**-END-**- -->
+<!-- more -->
 
 ![RubYcon, Харьков](/images/conference/rubycon-20.jpg "RubYcon, Харьков")
 

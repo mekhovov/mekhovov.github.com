@@ -18,7 +18,7 @@ tags: [speaker, railsgirls, co-organizer, ru]
 
 Я выступал в роли ведущего и рассказывал о том [что такое: internet, web-site, CSS, HTML и JS]( http://dont-fear-internet.pp.ua/)
 
-<!-- -**-END-**- -->
+<!-- more -->
 
 
 <iframe width="640" height="360" src="http://www.youtube.com/embed/QybQdwCnYM4" frameborder="0" allowfullscreen></iframe>

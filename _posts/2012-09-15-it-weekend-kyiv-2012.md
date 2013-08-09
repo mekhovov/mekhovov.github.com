@@ -17,7 +17,7 @@ tags: [speaker, it-weekend, ru]
 
 Рассказывал о [Responsive Web Design: one site for many devices](http://rwd.pp.ua)
 
-<!-- -**-END-**- -->
+<!-- more -->
 
 ![IT Weekend, Киев](/images/conference/it-weekend-02.jpg "IT Weekend, Киев")
 

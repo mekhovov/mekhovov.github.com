@@ -311,7 +311,7 @@ p {
 
 .post .bottom {
   height: 76px;
-  padding: 0 73px;
+  padding: 0 40px;
   background: url(../images/post-founders-bottom.png) no-repeat;
   margin-top: -1px;
   margin-bottom: 40px;
@@ -346,9 +346,13 @@ p {
 }
 .post .post_body, .cat_life .post_body {
   background: url(../images/post-founders-middle.png) repeat-y;
-  /*padding: 35px 55px 85px 55px;*/
-  padding: 20px 50px 85px 50px;
+  padding: 35px 55px 55px 55px;
 }
+
+.post .small_post {
+  padding: 1px 20px 25px 20px;
+}
+
 .post, .cat_life_body {
   margin:0;
   width: 830px;
