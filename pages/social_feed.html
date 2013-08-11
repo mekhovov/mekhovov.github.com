@@ -1,0 +1,37 @@
+---
+layout: feed_layout
+title: Social Feed
+group: navigation
+---
+  
+  <!-- http://beerblogging.org -->
+  
+  <div id="container" class=" social-feed-container container-wtf">
+    <!-- posts goes here... -->
+  </div>
+
+  <!-- JavaScripts -->
+  <script src="/js/jquery.min.js"></script>
+  <script src="/js/jquery.socialfeed.utility.js"></script>
+  <script src="/js/jquery.socialfeed.js"></script>
+  <script src="/js/ondas.js"></script>
+  <script src="/js/bolhas.js"></script>
+
+  <script>
+    $('.social-feed-container').socialfeed({
+        fb_username:  'mekhovov',
+        fb_limit:     40,
+        fb_token:     '320171718077168|DVTNrIU_cjUjoffoCI3l4tT07Lw',
+        // vk_username:   1,
+        // vk_limit:     5,
+        // vk_source:    'all',
+        tw_limit:     15,
+        tw_username:  'mekhovov',
+        length:       300,
+        cookies:      true,
+        show_media:   true
+    });
+  </script>
+  <!-- https://graph.facebook.com/oauth/access_token?client_id=320171718077168&client_secret=0902e0e757d897f954f7920c85093c53&grant_type=client_credentials -->
+
+

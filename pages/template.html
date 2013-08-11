@@ -1,0 +1,25 @@
+<article class="row box t social-feed-element" dt_create="{{=it.dt_create}}">
+
+    <section class='avatar'>
+        <a href="{{=it.link}}" target="_blank">{{=it.attachment}}</a>
+        &nbsp;
+    </section>
+
+    <div class='span8'>
+        <hgroup class="conteudo">
+            <h3 class="titulo">
+                <img class="social-network-icon" title="posted by {{=it.social_network}}" src="{{=it.social_icon}}" >
+            {{=it.text}}
+                <a href="{{=it.link}}" target="_blank" class=" open-link"> more&nbsp;➜ </a>
+            </h3>
+        </hgroup>
+    </div>
+
+    <div class='span1'>
+        <aside class="data">
+            <span class="mes">{{=it.time_ago_desc}}</span>
+            <span class="dia">{{=it.time_ago}}</span>
+        </aside>
+    </div>
+
+</article>

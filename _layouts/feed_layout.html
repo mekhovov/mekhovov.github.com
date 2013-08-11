@@ -1,0 +1,157 @@
+{% include JB/setup %}
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+    {% if page.description %}<meta name="description" content="{{ page.description }}">{% endif %}
+    <meta name="author" content="{{ site.author.name }}">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- Le HTML5 shim, for IE6-8 support of HTML elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <!-- Fonts -->
+    <link href="http://fonts.googleapis.com/css?family=Amaranth:regular,400italic,700,700italic" rel="stylesheet" type="text/css" >
+    <link href="http://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:200,300,400,700" rel="stylesheet" type="text/css" >
+
+    <!-- Le styles -->
+    <link href="{{ ASSET_PATH }}twitter/bootstrap/css/bootstrap-responsive.css" rel="stylesheet">
+    <link href="{{ ASSET_PATH }}twitter/bootstrap/css/bootstrap.css" rel="stylesheet">
+
+    <link href="{{ ASSET_PATH }}twitter/css/style.css?body=1" rel="stylesheet" type="text/css" media="all">
+
+    <link href='http://fonts.googleapis.com/css?family=Bad+Script' rel='stylesheet' type='text/css'>
+  
+    <link rel="stylesheet" href="/css/style_feed.css">
+
+
+    <script type="text/javascript" src="/js/jquery.min.js"></script>
+    <script type="text/javascript" src="{{ ASSET_PATH }}twitter/bootstrap/js/bootstrap.js"></script>
+    <script src="/js/modernizr-1.7.min.js"></script>
+
+    <script type="text/javascript" src="/js/app.js"></script>
+
+    <!-- Le fav and touch icons -->
+  <!-- Update these with your own images
+    <link rel="shortcut icon" href="images/favicon.ico">
+    <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
+  -->
+  </head>
+
+  <body class="fundo yanone">
+    <div class="navbar">
+      <div class="navbar-inner">
+        <div class="container">
+          <a class="brand" href="{{ HOME_PATH }}">{{ site.title }}</a>
+          <ul class="nav">
+            {% assign pages_list = site.pages  %}
+            {% assign group = 'navigation' %}
+            {% include JB/pages_list %}
+          </ul>
+          <span class="social-links pull-right">
+            <a href="http://www.facebook.com/mekhovov" target="_blank"><span class="follow aticon-facebook" title="Follow on Facebook">Facebook</span></a>
+            <a href="http://twitter.com/mekhovov" target="_blank"><span class="follow aticon-twitter" title="Follow on Twitter">Twitter</span></a>
+            <a href="http://www.linkedin.com/in/mekhovov" target="_blank"><span class="follow aticon-linkedin" title="Follow on LinkedIn">LinkedIn</span></a>
+            <a href="https://plus.google.com/113797180435801844653" target="_blank"><span class="follow aticon-google_follow" title="Follow on Google+">Google+</span></a>
+            <!-- <a href="http://mekhovov.github.io/atom.xml" target="_blank"><span class="follow aticon-rss" title="Follow on RSS">RSS</span></a> -->
+          </span>
+        </div>
+      </div>
+    </div>
+
+    <header>
+      <h1 class="amaranth social_title"> Social <a class=" twitter-rss-beer" href="{{ site.production_url }}/atom.xml" target="_blank" ><img src="/images/rss-beer.png" title="RSS feed"/></a> Feed </h1>
+      
+    </header>
+    
+    <canvas id="ondas"></canvas>
+
+    <div class="container">
+      <div class="content ">
+        <div class="row">
+          <div class="span11">
+                <div class='row post_body'>
+                    {{ content }}
+                </div>
+          </div>
+
+          <div class="span1">
+
+            <!-- https://developers.facebook.com/docs/reference/plugins/like-box/ -->
+
+            <!-- Twitter -->
+            <div class="row sidebar">
+              <div class="row top">&nbsp;</div>
+              <div class='row sidebar_body'>
+                  <div class='twitter-widget'>
+                    <a class="twitter-timeline" href="https://twitter.com/Mekhovov" data-widget-id="366589905566064640" height="400" data-chrome="nofooter noborders transparent" > @mekhovov</a>
+                    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+                  </div>
+              </div>
+              <div class="row bottom">
+                
+              </div>
+            </div>
+
+            <!-- Ruby Way Facebook -->
+            <div class="row sidebar">
+              <div class="row top">&nbsp;</div>
+              <div class='row sidebar_body'>
+                  <div class='facebook-widget'>
+                    <iframe src="//www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2FRailsWay&amp;width=180&amp;height=280&amp;colorscheme=light&amp;show_faces=true&amp;header=false&amp;stream=false&amp;show_border=false&amp;appId=593301974023942" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:180px; height:280px;" allowTransparency="true"></iframe>
+                  </div>
+              </div>
+              <div class="row bottom">
+              </div>
+            </div>
+
+
+            <!-- Script and Code Facebook -->
+            <div class="row sidebar">
+              <div class="row top">&nbsp;</div>
+              <div class='row sidebar_body social-widget'>
+                  <div class='facebook-widget'>
+                    <iframe src="//www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2FScriptAndCode&amp;width=180&amp;height=280&amp;colorscheme=light&amp;show_faces=true&amp;header=false&amp;stream=false&amp;show_border=false&amp;appId=525738004148605" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:180px; height:280px;" allowTransparency="true"></iframe>
+                  </div>
+              </div>
+              <div class="row bottom">
+              </div>
+            </div>
+
+            <!-- Ruby Garage Facebook -->
+            <div class="row sidebar">
+              <div class="row top">&nbsp;</div>
+              <div class='row sidebar_body social-widget'>
+                  <div class='facebook-widget'>
+                    <iframe src="//www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2FRubyGarage&amp;width=180&amp;height=280&amp;colorscheme=light&amp;show_faces=true&amp;header=false&amp;stream=false&amp;show_border=false&amp;appId=525738004148605" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:180px; height:280px;" allowTransparency="true"></iframe>
+                  </div>
+              </div>
+              <div class="row bottom">
+              </div>
+            </div>
+
+            <!-- Pacemaker Facebook -->
+            <div class="row sidebar">
+              <div class="row top">&nbsp;</div>
+              <div class='row sidebar_body social-widget'>
+                  <div class='facebook-widget'>
+                    <iframe src="//www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2FPacemakerJs&amp;width=180&amp;height=280&amp;colorscheme=light&amp;show_faces=true&amp;header=false&amp;stream=false&amp;show_border=false&amp;appId=525738004148605" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:180px; height:280px;" allowTransparency="true"></iframe>
+                  </div>
+              </div>
+              <div class="row bottom">
+              </div>
+            </div>
+          </div>
+
+    </div> <!-- /container -->
+    <div class="c_lear" ></div>
+
+    {% include JB/analytics %}
+  </body>
+</html>

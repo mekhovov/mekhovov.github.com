@@ -731,5 +731,16 @@ footer .addthis_toolbox {
 }
 
 
-
+.twitter-widget {
+  margin-top: -60px;
+  margin-bottom: -40px;
+}
+.twitter-rss-beer img {
+  margin-top: -15px;
+  max-height: 100px;
+}
+.facebook-widget {
+ margin-top: -82px; 
+ margin-bottom: -40px;
+}
 
