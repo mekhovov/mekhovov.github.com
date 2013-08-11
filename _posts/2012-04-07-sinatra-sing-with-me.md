@@ -12,22 +12,22 @@ tags: [sinatra, en]
 #### Sinatra: Sing with me this ditty
 
 This presentation created with love. You can see it [here](http://sinatra-sing-with-me.heroku.com).
+The [source code](https://github.com/mekhovov/sinatra_presentation) is on GitHub. Welcome to contribute!
 
-#### Agenda 
+Agenda 
+#### 
 * [Sinatra: about](http://sinatra-sing-with-me.heroku.com/slide4)
 * [Site: up and running](http://sinatra-sing-with-me.heroku.com/slide35)
 * [Deploy: in minutes](http://sinatra-sing-with-me.heroku.com/slide49)
 * [DB: just use it](http://sinatra-sing-with-me.heroku.com/slide58)
 * [Sinatra: more](http://sinatra-sing-with-me.heroku.com/slide69)
 
-The [source code](https://github.com/mekhovov/sinatra_presentation) is on GitHub. Welcome to contribute!
 
 <!-- more -->
 
-Some slides ...
-
 This presenattion created for [Pacemaker:JS 2012](http://pacemaker.softserve.ua/js-2012/about) Conference.
 
+Some slides ...
 
 What is Sinatra?
 
