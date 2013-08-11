@@ -6,10 +6,6 @@ group: navigation
 ---
 
 
-
-
-
-
 {% for post in site.posts %}
 <div class="post index cat_{{ post.categories }}">
   <div class="row top">
@@ -41,18 +37,12 @@ group: navigation
   <div class="row bottom">
     <div class="meta">
       <span class="date">
-        <!-- <ul class="tags inline">
-          {% assign tags_list = post.tags %}  
-          {% include JB/tags_list %}
-        </ul> -->
-
         <ul class="tag_box inline">
           {% for tag in post.tags %}
           <li> <a href="/tags.html#{{ tag }}" title="{{ tag }}">{{ tag }}</a> </li>
           {% endfor %}
         </ul>
       </span>
-      <!-- <span class="comment_count"><a href="{{ post.url }}/#comments" title="Comment on {{ post.title }}">Comments..</a></span> -->
       <!-- AddThis Button BEGIN -->
         <div class="addthis_toolbox addthis_default_style " 
           addthis:url="{{ site.production_url }}{{ post.url }}"
@@ -77,7 +67,6 @@ group: navigation
             </script>
         </span>
       <!-- Xing Button END -->
-                              
     </div>
   </div>
 
