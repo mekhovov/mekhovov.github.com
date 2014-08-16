@@ -1,0 +1,176 @@
+{% include JB/setup %}
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+    {% if page.description %}<meta name="description" content="{{ page.description }}">{% endif %}
+    <meta name="author" content="{{ site.author.name }}">
+
+    <!-- Le HTML5 shim, for IE6-8 support of HTML elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <!-- Le styles -->
+    <link href="{{ ASSET_PATH }}twitter/bootstrap/css/bootstrap-responsive.css" rel="stylesheet">
+    <link href="{{ ASSET_PATH }}twitter/bootstrap/css/bootstrap.css" rel="stylesheet">
+
+    <link href="/css/GitHubWidget.css" rel="stylesheet" type="text/css" >
+    
+    <link href="{{ ASSET_PATH }}twitter/css/style.css?body=1" rel="stylesheet" type="text/css" media="all">
+    <link href="{{ ASSET_PATH }}twitter/css/map.css?body=1" rel="stylesheet" type="text/css" media="all">
+
+
+    <script type="text/javascript" src="/js/jquery.min.js"></script>
+    <script type="text/javascript" src="{{ ASSET_PATH }}twitter/bootstrap/js/bootstrap.js"></script>
+
+    <script type="text/javascript" src="/js/app.js"></script>
+
+
+    <!-- Le fav and touch icons -->
+  <!-- Update these with your own images
+    <link rel="shortcut icon" href="images/favicon.ico">
+    <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
+  -->
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <div class="content page">
+
+
+        <div class="row">
+          <div class="span11">
+              
+            <div class=" post">
+
+              <div class="row top">
+
+                  <div class="clip clip-with-details">
+                    <div class="clipTop"></div>
+                    <div class="clipMiddle">
+                      <!-- <a href="{{ post.url }}"> -->
+                        <h3>{{ page.title }}</h3>
+                        <span class="clipDetails">
+                          Мапа <a class="link_to_ff" href="https://www.facebook.com/groups/ukr.hamburg/" target="_blank"> cпільноти українців</a>.
+                          Подробицi <a class="link_to_ff" href="https://www.facebook.com/groups/ukr.hamburg/permalink/729920403725370/?comment_id=729921060391971&offset=50&total_comments=58" target="_blank"> тут</a>
+                        </span>
+                      <!-- </a> -->
+                    </div>
+                    <div class="clipBottom">
+                    </div>
+                  </div>
+                   
+                  
+                </div>
+
+                <div class='row post_body'>
+                  
+                    <div class='span9'> 
+                      {{ content }} 
+                      
+                      <br>
+                        <!-- AddThis Button BEGIN -->
+                          <div class="addthis_toolbox addthis_default_style " 
+                              addthis:url="{{ site.production_url }}{{ page.url }}"
+                              addthis:title="{{ page.title }} by @mekhovov">
+                          <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                          <a class="addthis_button_tweet"></a>
+                          <a class="addthis_counter addthis_pill_style"></a>
+                          </div>
+                          <script type="text/javascript">var addthis_config = {"data_track_addressbar":false};</script>
+                          <script type="text/javascript" src="http://s7.addthis.com/js/300/addthis_widget.js#pubid=ra-50815d307531d654"></script>
+                        <!-- AddThis Button END -->
+                        <!-- Xing Button BEGIN -->
+                          <span style="display: inline; position:relative; float:right; right:5px" class='pull-right'>
+                            <div data-counter="right" data-type="XING/Share" data-url="{{ site.production_url }}{{ page.url }}"></div>
+                              <script>
+                                ;(function (d, s) {
+                                  var x = d.createElement(s),
+                                    s = d.getElementsByTagName(s)[0];
+                                    x.src = "https://www.xing-share.com/js/external/share.js";
+                                    s.parentNode.insertBefore(x, s);
+                                })(document, "script");
+                              </script>
+                          </span>
+                        <!-- Xing Button END -->
+                      <br>
+                      <hr>
+                      <br>
+
+                    </div>
+
+                    <div class="span9" id='comments'>
+                      {% include JB/comments %}
+                    </div>
+
+                  </div>
+
+                  <div class="row bottom">
+                    <div class="meta"></div>
+                  </div>
+
+            </div>
+          </div>
+
+
+
+          <div class="span1">
+
+            <!-- Categories -->
+            <!-- <div class="row sidebar">
+                <div class="row top">
+                  <h3 class="categoty"><a href="/categories.html" title="Categories" rel="category">Places</a></h3>
+                </div>
+              <div class='row sidebar_body'>
+                <div class='span2'> 
+                  
+                  <ul class="side_list">
+                    <li><a href="#">st. Georg</a></li>
+                    <li><a href="#">Altona</a></li>
+                  </ul> 
+
+                </div>
+              </div>
+              <div class="row bottom">
+                <div class="meta"></div>
+              </div>
+            </div> -->
+
+
+            <!-- Ruby Way Facebook -->
+            <div class="row sidebar">
+                <div class="row top">
+                  <h3 class="categoty"><a href="https://www.facebook.com/groups/ukr.hamburg/" target="_blank" title="Facebook" rel="Facebook">Facebook</a></h3>
+                </div>
+              <div class='row sidebar_body'>
+                <div class='span2'> 
+                  <img style="width: 100%" src="/images/hh_ua_logo.jpg">
+                  <iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Fgroups%2Fukr.hamburg&amp;width=250&amp;height=80&amp;colorscheme=light&amp;layout=standard&amp;action=like&amp;show_faces=true&amp;send=true&amp;appId=230207687136217" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:150px; height:80px;" allowTransparency="true"></iframe>
+
+                </div>
+              </div>
+
+              <div class="row bottom">
+                <div class="meta"></div>
+              </div>
+            </div>
+
+                  
+
+          </div>
+
+
+
+
+    </div> <!-- /container -->
+    <div class="c_lear" ></div>
+
+    {% include JB/analytics %}
+  </body>
+</html>
