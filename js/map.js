@@ -13,9 +13,9 @@ $(function() {
 
   
     var data = $.map( users_data, function( user ) {
-      user_info_html =  '<div style="position:relative; min-height:110px;">' +
+      user_info_html =  '<div style="position:relative; min-height:100px;">' +
                           '<div style="float: left; width: 110px; padding-right: 10px">' +
-                            '<img style=" width:110px" src="http://graph.facebook.com/' + user.facebook_id + '/picture?type=normal">' +
+                            '<img style="max-height: 100px" src="http://graph.facebook.com/' + user.facebook_id + '/picture?type=normal">' +
                           '</div>' +
                           '<div style="float: right; width: 160px">' +
                             '<h4>' + 
