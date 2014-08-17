@@ -27,7 +27,7 @@ $(function() {
                         '</div>';
 
       return {
-        address: user.address + ", Hamburg",
+        address: user.address, // + ", Hamburg",
         html: user_info_html,
         popup: true 
       };
