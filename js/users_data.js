@@ -1,7 +1,11 @@
+// http://ubilabs.github.io/geocomplete/examples/form.html
+
 var users_data = [
   {
     name:         "Alex Mekhovov",
     address:      "st. Georg, Hamburg",
+    lat:          53.553056,
+    lng:          10.015277999999967,
     url:          "https://www.facebook.com/mekhovov",
     facebook_id:  "mekhovov"
   },
@@ -38,12 +42,16 @@ var users_data = [
   {
     name:         "Tetiana Sosyniuk",
     address:      "Harburg, Hamburg",
+    lat:          53.4607681,
+    lng:          9.98358440000004,
     url:          "https://www.facebook.com/tetiana.sosyniuk?fref=ufi",
     facebook_id:  "tetiana.sosyniuk"
   },
   {
     name:         "Ірина Макар",
     address:      "st. Georg, Hamburg",
+    lat:          53.553056,
+    lng:          10.015277999999967,
     url:          "https://www.facebook.com/iryna.makar?fref=ufi",
     facebook_id:  "iryna.makar"
   },
@@ -74,18 +82,24 @@ var users_data = [
   {
     name:         "Tetiana Peczeniuk",
     address:      "Altona, Hamburg",
+    lat:          53.55,
+    lng:          9.933332999999948,
     url:          "https://www.facebook.com/tanya.pechenyuk.7?fref=ufi",
     facebook_id:  "tanya.pechenyuk.7"
   },
   {
     name:         "Iryna Yeskova",
     address:      "Harburg, Hamburg",
+    lat:          53.4607681,
+    lng:          9.98358440000004,
     url:          "https://www.facebook.com/rina.yeskova?fref=ufi",
     facebook_id:  "rina.yeskova"
   },
   {
     name:         "Anna Alekseeva",
     address:      "Lokstedt, Hamburg",
+    lat:          53.5991339,
+    lng:          9.958529399999975,
     url:          "https://www.facebook.com/anna.v.alekseeva?fref=ufi",
     facebook_id:  "anna.v.alekseeva"
   },
@@ -104,6 +118,8 @@ var users_data = [
   {
     name:         "Ruby Lucas",
     address:      "Fühlsbüttel, Hamburg",
+    lat:          53.6225,
+    lng:          10.018888999999945,
     url:          "https://www.facebook.com/RedRubyLucas?fref=ufi",
     facebook_id:  "RedRubyLucas"
   },
@@ -116,18 +132,24 @@ var users_data = [
   {
     name:         "Tanya Biz",
     address:      "Eilbek/Wandsbek, Hamburg",
+    lat:          53.45583,
+    lng:          9.954579999999964,
     url:          "https://www.facebook.com/TanyaBizz?fref=ufi",
     facebook_id:  "TanyaBizz"
   },
   {
     name:         "Vadim Spotty",
     address:      "Harvestehude, Hamburg",
+    lat:          53.57765000000001,
+    lng:          9.988929999999982,
     url:          "https://www.facebook.com/vadim.spotty?fref=ufi",
     facebook_id:  "vadim.spotty"
   },
   {
     name:         "Myroslava Topylko",
     address:      "Hoheluft-West, Hamburg",
+    lat:          53.5809523,
+    lng:          9.967582499999935,
     url:          "https://www.facebook.com/profile.php?id=100002039724408&fref=ufi",
     facebook_id:  "100002039724408"
   },
@@ -152,60 +174,80 @@ var users_data = [
   {
     name:         "Engel Teil",
     address:      "Barmbek-Nord, Hamburg",
+    lat:          53.6052,
+    lng:          10.03988000000004,
     url:          "https://www.facebook.com/aateil?fref=ufi",
     facebook_id:  "aateil"
   },
   {
     name:         "Olena Kostiana",
     address:      "Neugraben, Hamburg",
+    lat:          53.477073,
+    lng:          9.857907000000068,
     url:          "https://www.facebook.com/le.mobidik?fref=ufi",
     facebook_id:  "le.mobidik"
   },
   {
     name:         "Ewgenia Kos",
     address:      "Meiendorf, Hamburg",
+    lat:          53.6364315,
+    lng:          10.162594899999931,
     url:          "https://www.facebook.com/ewgenia.kos?fref=ufi",
     facebook_id:  "ewgenia.kos"
   },
   {
     name:         "Антонина Лямаева",
     address:      "Schenefeld, Hamburg",
+    lat:          53.6021622,
+    lng:          9.837433000000033,
     url:          "https://www.facebook.com/lyamayeva?fref=ufi",
     facebook_id:  "lyamayeva"
   },
   {
     name:         "Iryna Rotärmel",
     address:      "Langenhorn, Hamburg",
+    lat:          53.65000000000001,
+    lng:          10,
     url:          "https://www.facebook.com/nadin.maier.5?fref=ufi",
     facebook_id:  "nadin.maier.5"
   },
   {
     name:         "Iryna Zhurakovska",
     address:      "Hohenfelde, Hamburg",
+    lat:          53.561667,
+    lng:          10.020833000000039,
     url:          "https://www.facebook.com/iryna.zhurakovska?fref=ufi",
     facebook_id:  "iryna.zhurakovska"
   },
   {
     name:         "Natalia Sadovnik",
     address:      "Barmbek-Nord, Hamburg",
+    lat:          53.6052,
+    lng:          10.03988000000004,
     url:          "https://www.facebook.com/nsadovnik?fref=ufi",
     facebook_id:  "nsadovnik"
   },
   {
     name:         "Maria Sia",
     address:      "Altstadt, Hamburg",
+    lat:          53.55,
+    lng:          10,
     url:          "https://www.facebook.com/maria.sia.92?fref=ufi",
     facebook_id:  "maria.sia.92"
   },
   {
     name:         "Andrey Martynenko",
     address:      "Harburg, Hamburg",
+    lat:          53.4607681,
+    lng:          9.98358440000004,
     url:          "https://www.facebook.com/andrey.martynenko.73?fref=ufi",
     facebook_id:  "andrey.martynenko.73"
   },
   {
     name:         "Aleksandra Geylyk",
     address:      "Borgfelde, Hamburg",
+    lat:          53.55475,
+    lng:          10.034470000000056,
     url:          "https://www.facebook.com/aleksandra.geylyk?fref=ufi",
     facebook_id:  "aleksandra.geylyk"
   },
@@ -218,24 +260,32 @@ var users_data = [
   {
     name:         "Iryna Zhyvotova",
     address:      "Harburg, Hamburg",
+    lat:          53.4607681,
+    lng:          9.98358440000004,
     url:          "https://www.facebook.com/iryna.zhyvotova?fref=ufi",
     facebook_id:  "iryna.zhyvotova"
   },
   {
     name:         "Vita Naniak",
     address:      "Dammtor, Hamburg",
+    lat:          53.5607537,
+    lng:          9.991047200000025,
     url:          "https://www.facebook.com/profile.php?id=100002090835906&fref=ufi",
     facebook_id:  "100002090835906"
   },
   {
     name:         "Оксана Ланге",
     address:      "Hitzacker Wendland, Germany",
+    lat:          53.133333,
+    lng:          11.049999999999955,
     url:          "https://www.facebook.com/lange.hitzacker?fref=ufi",
     facebook_id:  "lange.hitzacker"
   },
   {
     name:         "Liana Lianka",
     address:      "Eissendorf, Harburg, Hamburg",
+    lat:          53.45583,
+    lng:          9.954579999999964,
     url:          "https://www.facebook.com/liana.lianka.94?fref=ufi",
     facebook_id:  "liana.lianka.94"
   },
@@ -248,45 +298,59 @@ var users_data = [
   {
     name:         "Olya Lapa",
     address:      "Blankenese, Hamburg",
+    lat:          53.5663436,
+    lng:          9.798388799999998,
     url:          "https://www.facebook.com/olya.lapa.9?fref=ufi",
     facebook_id:  "olya.lapa.9"
   },
   {
     name:         "Maria Fedorova",
     address:      "Harburg, Hamburg",
+    lat:          53.4607681,
+    lng:          9.98358440000004,
     url:          "https://www.facebook.com/mariia.fedorova.5?fref=ufi",
     facebook_id:  "mariia.fedorova.5"
   },
   {
     name:         "Ira Wolf",
     address:      "Harburg, Hamburg",
+    lat:          53.4607681,
+    lng:          9.98358440000004,
     url:          "https://www.facebook.com/ira.systaluk?fref=ufi",
     facebook_id:  "ira.systaluk"
   },
   {
     name:         "Dima Swetlow",
     address:      "Braunschweig, Germany",
+    lat:          52.2688736,
+    lng:          10.526769599999966,
     url:          "https://www.facebook.com/FCBayernMunchen4ever?fref=ufi",
     facebook_id:  "FCBayernMunchen4ever"
   },
   {
     name:         "Leonid Shenderov",
     address:      "Wedel, Germany",
+    lat:          53.58238129999999,
+    lng:          9.71374650000007,
     url:          "https://www.facebook.com/leonid.shenderov?fref=ufi",
     facebook_id:  "leonid.shenderov"
   },
   {
     name:         "Kristina Stepanenko",
     address:      "Börnsen, Hamburg",
+    lat:          53.4687649,
+    lng:          10.281987399999934,
     url:          "https://www.facebook.com/kristina.stepanenko.92?fref=ufi",
     facebook_id:  "kristina.stepanenko.92"
   },
   {
     name:         "Uljana Boyda",
     address:      "Izstedt, Germany",
+    lat:          53.80787180000001,
+    lng:          10.157454700000017,
     url:          "https://www.facebook.com/uljana.boyda?fref=ufi",
     facebook_id:  "uljana.boyda"
-  },
+  }
 ];
 
 
