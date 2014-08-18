@@ -382,7 +382,15 @@ var users_data = [
     lng:          10.157454700000017,
     url:          "https://www.facebook.com/uljana.boyda?fref=ufi",
     facebook_id:  "uljana.boyda"
-  }
+  },
+  {
+    name:         "Julia Gabriel",
+    address:      "Reinbek",
+    lat:          53.5170003,
+    lng:          10.244339200000013,
+    url:          "https://www.facebook.com/profile.php?id=100005147586282&fref=ufi",
+    facebook_id:  "100005147586282"
+  },
 ];
 
 
