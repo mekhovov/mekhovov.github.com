@@ -391,6 +391,22 @@ var users_data = [
     url:          "https://www.facebook.com/profile.php?id=100005147586282&fref=ufi",
     facebook_id:  "100005147586282"
   },
+  {
+    name:         "Julia Vynokur",
+    address:      "Uhlenhorst/Winterhude",
+    lat:          53.5725,
+    lng:          10.018610999999964,
+    url:          "https://www.facebook.com/julia.vynokur?fref=ufi",
+    facebook_id:  "julia.vynokur"
+  },
+  {
+    name:         "Yuliya Mavrodiyeva",
+    address:      "Hummelsbüttel",
+    lat:          53.64773,
+    lng:          10.041490000000067,
+    url:          "https://www.facebook.com/yuliya.mavrodiyeva?fref=ufi",
+    facebook_id:  "yuliya.mavrodiyeva"
+  },
 ];
 
 
