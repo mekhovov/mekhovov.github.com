@@ -407,6 +407,78 @@ var users_data = [
     url:          "https://www.facebook.com/yuliya.mavrodiyeva?fref=ufi",
     facebook_id:  "yuliya.mavrodiyeva"
   },
+  {
+    name:         "Irina Diana Bulanowa",
+    address:      "Barmbek Süd",
+    lat:          53.58007300000001,
+    lng:          10.040671999999972,
+    url:          "https://www.facebook.com/idbulanowa?fref=ufi",
+    facebook_id:  "idbulanowa"
+  },
+  {
+    name:         "Milla Neu",
+    address:      "Ahrensburg",
+    lat:          53.6764136,
+    lng:          10.237885399999982,
+    url:          "https://www.facebook.com/millarneu?fref=ufi",
+    facebook_id:  "millarneu"
+  },
+  {
+    name:         "Masha Masha",
+    address:      "Harburg-Heimfeld",
+    lat:          53.464014,
+    lng:          9.956238999999982,
+    url:          "https://www.facebook.com/profile.php?id=100001568798402&fref=ufi",
+    facebook_id:  "100001568798402"
+  },
+  {
+    name:         "OlKa Olenka",
+    address:      "Hamm",
+    lat:          53.5531447,
+    lng:          10.055475500000057,
+    url:          "https://www.facebook.com/OlKaOle?fref=ufi",
+    facebook_id:  "OlKaOle"
+  },
+  {
+    name:         "Lana Svit",
+    address:      "Wandsbek",
+    lat:          53.5830764,
+    lng:          10.08263379999994,
+    url:          "https://www.facebook.com/svitlana.syzonyuk?fref=ufi",
+    facebook_id:  "svitlana.syzonyuk"
+  },
+  {
+    name:         "Dmytriy Diadiuk",
+    address:      "Billstedt",
+    lat:          53.540556,
+    lng:          10.100000000000023,
+    url:          "https://www.facebook.com/dmytriy.dyadyuk?fref=ufi",
+    facebook_id:  "dmytriy.dyadyuk"
+  },
+  {
+    name:         "Alla Khramtsova",
+    address:      "Neustadt",
+    lat:          53.55196,
+    lng:          9.985580000000027,
+    url:          "https://www.facebook.com/alla.khramtsova?fref=ufi",
+    facebook_id:  "alla.khramtsova"
+  },
+  {
+    name:         "Anna Lat",
+    address:      "Eppendorf",
+    lat:          53.59555599999999,
+    lng:          9.983888999999976,
+    url:          "https://www.facebook.com/anna.lat.528?fref=ufi",
+    facebook_id:  "anna.lat.528"
+  },
+  {
+    name:         "Zoryana Terletska",
+    address:      "Rahlstedt",
+    lat:          53.6144198,
+    lng:          10.156074499999932,
+    url:          "https://www.facebook.com/zoryana.terletska?fref=ufi",
+    facebook_id:  "zoryana.terletska"
+  },
 ];
 
 
@@ -417,6 +489,8 @@ var users_data = [
   {
     name:         "",
     address:      "",
+    lat:          ,
+    lng:          ,
     url:          "",
     facebook_id:  ""
   },
