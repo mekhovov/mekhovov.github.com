@@ -1,4 +1,4 @@
-// http://ubilabs.github.io/geocomplete/examples/form.html
+//Ahrensburg
 
 var users_data = [
   {
@@ -385,9 +385,9 @@ var users_data = [
   },
   {
     name:         "Julia Gabriel",
-    address:      "Reinbek",
-    lat:          53.5170003,
-    lng:          10.244339200000013,
+    address:      "Harburg",
+    lat:          53.4607681,
+    lng:          9.98358440000004,
     url:          "https://www.facebook.com/profile.php?id=100005147586282&fref=ufi",
     facebook_id:  "100005147586282"
   },
@@ -478,6 +478,38 @@ var users_data = [
     lng:          10.156074499999932,
     url:          "https://www.facebook.com/zoryana.terletska?fref=ufi",
     facebook_id:  "zoryana.terletska"
+  },
+  {
+    name:         "Irina Prykhodko",
+    address:      "Ahrensburg",
+    lat:          53.6764136,
+    lng:          10.237885399999982,
+    url:          "https://www.facebook.com/irina.prykhodko.9?fref=ufi",
+    facebook_id:  "irina.prykhodko.9"
+  },
+  {
+    name:         "Violetta Sadevich",
+    address:      "Hamm-Süd, Süderstraße",
+    lat:          53.5460235,
+    lng:          10.064338700000008,
+    url:          "https://www.facebook.com/violetta.sadevich?fref=ufi",
+    facebook_id:  "violetta.sadevich"
+  },
+  {
+    name:         "Ivan Smirnov",
+    address:      "Harburg",
+    lat:          53.4607681,
+    lng:          9.98358440000004,
+    url:          "https://www.facebook.com/profile.php?id=100004287255434&fref=ufi",
+    facebook_id:  "100004287255434"
+  },
+  {
+    name:         "Serge Sintschenko",
+    address:      "Langenhorn",
+    lat:          53.65000000000001,
+    lng:          10,
+    url:          "https://www.facebook.com/serge.sintschenko?fref=ufi",
+    facebook_id:  "serge.sintschenko"
   },
 ];
 
