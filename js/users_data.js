@@ -489,7 +489,7 @@ var users_data = [
   },
   {
     name:         "Violetta Sadevich",
-    address:      "Hamm-Süd, Süderstraße",
+    address:      "Hamm-Süd",
     lat:          53.5460235,
     lng:          10.064338700000008,
     url:          "https://www.facebook.com/violetta.sadevich?fref=ufi",
