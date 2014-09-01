@@ -1,4 +1,4 @@
-//Ahrensburg
+// http://ubilabs.github.io/geocomplete/examples/form.html
 
 var users_data = [
   {
@@ -510,6 +510,30 @@ var users_data = [
     lng:          10,
     url:          "https://www.facebook.com/serge.sintschenko?fref=ufi",
     facebook_id:  "serge.sintschenko"
+  },
+  {
+    name:         "Anna Iskova",
+    address:      "Eppendorf",
+    lat:          53.59555599999999,
+    lng:          9.983888999999976,
+    url:          "https://www.facebook.com/ann.iskova?fref=ufi",
+    facebook_id:  "ann.iskova"
+  },
+  {
+    name:         "Sergey Baryshev",
+    address:      "Süderstraße",
+    lat:          53.5481871,
+    lng:          10.046757399999933,
+    url:          "https://www.facebook.com/sergey.baryshev.35?fref=ufi",
+    facebook_id:  "sergey.baryshev.35"
+  },
+  {
+    name:         "Oksana Maryskevych",
+    address:      "Kuhmühle",
+    lat:          53.56518,
+    lng:          10.024000000000001,
+    url:          "https://www.facebook.com/oksana.maryskevych.5",
+    facebook_id:  "oksana.maryskevych.5"
   },
 ];
 
