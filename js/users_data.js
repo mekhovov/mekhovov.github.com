@@ -14,7 +14,7 @@ var users_data = [
     address:      "Allermöhe",
     lat:          53.483333,
     lng:          10.149999999999977,
-    url:          "https://www.facebook.com/profile.php?id=100001292360308&fref=ufi",
+    url:          "https://www.facebook.com/profile.php?id=100001292360308",
     facebook_id:  "100001292360308"
   },
   {
@@ -22,7 +22,7 @@ var users_data = [
     address:      "Reinbek",
     lat:          53.5170003,
     lng:          10.244339200000013,
-    url:          "https://www.facebook.com/alexander.harder.1?fref=ufi",
+    url:          "https://www.facebook.com/alexander.harder.1",
     facebook_id:  "alexander.harder"
   },
   {
@@ -30,7 +30,7 @@ var users_data = [
     address:      "Eidelstedt",
     lat:          53.60707,
     lng:          9.906219999999962,
-    url:          "https://www.facebook.com/florina.chudnovska?fref=ufi",
+    url:          "https://www.facebook.com/florina.chudnovska",
     facebook_id:  "florina.chudnovska"
   },
   {
@@ -38,7 +38,7 @@ var users_data = [
     address:      "Eppendorf",
     lat:          53.59555599999999,
     lng:          9.983888999999976,
-    url:          "https://www.facebook.com/alona.tarasova?fref=ufi",
+    url:          "https://www.facebook.com/alona.tarasova",
     facebook_id:  "alona.tarasova"
   },
   {
@@ -46,7 +46,7 @@ var users_data = [
     address:      "Seevetal/Fleestedt",
     lat:          53.409444,
     lng:          9.993056000000024,
-    url:          "https://www.facebook.com/tatyana.duncker?fref=ufi",
+    url:          "https://www.facebook.com/tatyana.duncker",
     facebook_id:  "tatyana.duncker"
   },
   {
@@ -54,7 +54,7 @@ var users_data = [
     address:      "Harburg",
     lat:          53.4607681,
     lng:          9.98358440000004,
-    url:          "https://www.facebook.com/tetiana.sosyniuk?fref=ufi",
+    url:          "https://www.facebook.com/tetiana.sosyniuk",
     facebook_id:  "tetiana.sosyniuk"
   },
   {
@@ -62,15 +62,15 @@ var users_data = [
     address:      "st. Georg",
     lat:          53.553056,
     lng:          10.015277999999967,
-    url:          "https://www.facebook.com/iryna.makar?fref=ufi",
+    url:          "https://www.facebook.com/iryna.makar",
     facebook_id:  "iryna.makar"
   },
   {
     name:         "Ilona Lock",
-    address:      "Barmbek Süd",
-    lat:          53.58007300000001,
-    lng:          10.040671999999972,
-    url:          "https://www.facebook.com/ilona.bystryk?fref=ufi",
+    address:      "Farmsen",
+    lat:          53.607203,
+    lng:          10.11781300000007,
+    url:          "https://www.facebook.com/ilona.bystryk",
     facebook_id:  "ilona.bystryk"
   },
   {
@@ -78,7 +78,7 @@ var users_data = [
     address:      "Horn",
     lat:          53.55,
     lng:          10.083333000000039,
-    url:          "https://www.facebook.com/ossja?fref=ufi",
+    url:          "https://www.facebook.com/ossja",
     facebook_id:  "ossja"
   },
   {
@@ -86,7 +86,7 @@ var users_data = [
     address:      "Neustadt",
     lat:          53.55196,
     lng:          9.985580000000027,
-    url:          "https://www.facebook.com/tetyankad?fref=ufi",
+    url:          "https://www.facebook.com/tetyankad",
     facebook_id:  "tetyankad"
   },
   {
@@ -94,7 +94,7 @@ var users_data = [
     address:      "Stellingen",
     lng:          53.5922,
     lat:          9.928699999999935,
-    url:          "https://www.facebook.com/oksana.tokar.5?fref=ufi",
+    url:          "https://www.facebook.com/oksana.tokar.5",
     facebook_id:  "oksana.tokar.5"
   },
   {
@@ -102,7 +102,7 @@ var users_data = [
     address:      "Altona",
     lat:          53.55,
     lng:          9.933332999999948,
-    url:          "https://www.facebook.com/tanya.pechenyuk.7?fref=ufi",
+    url:          "https://www.facebook.com/tanya.pechenyuk.7",
     facebook_id:  "tanya.pechenyuk.7"
   },
   {
@@ -110,7 +110,7 @@ var users_data = [
     address:      "Harburg",
     lat:          53.4607681,
     lng:          9.98358440000004,
-    url:          "https://www.facebook.com/rina.yeskova?fref=ufi",
+    url:          "https://www.facebook.com/rina.yeskova",
     facebook_id:  "rina.yeskova"
   },
   {
@@ -118,7 +118,7 @@ var users_data = [
     address:      "Lokstedt",
     lat:          53.5991339,
     lng:          9.958529399999975,
-    url:          "https://www.facebook.com/anna.v.alekseeva?fref=ufi",
+    url:          "https://www.facebook.com/anna.v.alekseeva",
     facebook_id:  "anna.v.alekseeva"
   },
   {
@@ -126,7 +126,7 @@ var users_data = [
     address:      "Seevetal/Meckelfeld",
     lat:          53.421944,
     lng:          10.020833000000039,
-    url:          "https://www.facebook.com/ludmila.kachanovetska?fref=ufi",
+    url:          "https://www.facebook.com/ludmila.kachanovetska",
     facebook_id:  "ludmila.kachanovetska"
   },
   {
@@ -134,7 +134,7 @@ var users_data = [
     address:      "Öjensdorf",
     lat:          53.5430876,
     lng:          10.147769400000016,
-    url:          "https://www.facebook.com/ievgeniia.lysak?fref=ufi",
+    url:          "https://www.facebook.com/ievgeniia.lysak",
     facebook_id:  "ievgeniia.lysak"
   },
   {
@@ -142,7 +142,7 @@ var users_data = [
     address:      "Fühlsbüttel",
     lat:          53.6225,
     lng:          10.018888999999945,
-    url:          "https://www.facebook.com/RedRubyLucas?fref=ufi",
+    url:          "https://www.facebook.com/RedRubyLucas",
     facebook_id:  "RedRubyLucas"
   },
   {
@@ -150,7 +150,7 @@ var users_data = [
     address:      "Stellingen",
     lng:          53.5922,
     lat:          9.928699999999935,
-    url:          "https://www.facebook.com/aljona.alekseeva?fref=ufi",
+    url:          "https://www.facebook.com/aljona.alekseeva",
     facebook_id:  "aljona.alekseeva"
   },
   {
@@ -158,7 +158,7 @@ var users_data = [
     address:      "Eilbek/Wandsbek",
     lat:          53.45583,
     lng:          9.954579999999964,
-    url:          "https://www.facebook.com/TanyaBizz?fref=ufi",
+    url:          "https://www.facebook.com/TanyaBizz",
     facebook_id:  "TanyaBizz"
   },
   {
@@ -166,7 +166,7 @@ var users_data = [
     address:      "Harvestehude",
     lat:          53.57765000000001,
     lng:          9.988929999999982,
-    url:          "https://www.facebook.com/vadim.spotty?fref=ufi",
+    url:          "https://www.facebook.com/vadim.spotty",
     facebook_id:  "vadim.spotty"
   },
   {
@@ -174,7 +174,7 @@ var users_data = [
     address:      "Hoheluft-West",
     lat:          53.5809523,
     lng:          9.967582499999935,
-    url:          "https://www.facebook.com/profile.php?id=100002039724408&fref=ufi",
+    url:          "https://www.facebook.com/profile.php?id=100002039724408",
     facebook_id:  "100002039724408"
   },
   {
@@ -182,7 +182,7 @@ var users_data = [
     address:      "Reinbek",
     lat:          53.5170003,
     lng:          10.244339200000013,
-    url:          "https://www.facebook.com/anastassija.mossewytsch?fref=ufi",
+    url:          "https://www.facebook.com/anastassija.mossewytsch",
     facebook_id:  "anastassija.mossewytsch"
   },
   {
@@ -190,13 +190,13 @@ var users_data = [
     address:      "Barmbek Süd",
     lat:          53.58007300000001,
     lng:          10.040671999999972,
-    url:          "https://www.facebook.com/artemyev.dmitriy?fref=ufi",
+    url:          "https://www.facebook.com/artemyev.dmitriy",
     facebook_id:  "artemyev.dmitriy"
   },
   {
     name:         "Anna Iskova",
     address:      "Harvestehude",
-    url:          "https://www.facebook.com/ann.iskova?fref=ufi",
+    url:          "https://www.facebook.com/ann.iskova",
     facebook_id:  "ann.iskova"
   },
   {
@@ -204,7 +204,7 @@ var users_data = [
     address:      "Barmbek-Nord",
     lat:          53.6052,
     lng:          10.03988000000004,
-    url:          "https://www.facebook.com/aateil?fref=ufi",
+    url:          "https://www.facebook.com/aateil",
     facebook_id:  "aateil"
   },
   {
@@ -212,7 +212,7 @@ var users_data = [
     address:      "Neugraben",
     lat:          53.477073,
     lng:          9.857907000000068,
-    url:          "https://www.facebook.com/le.mobidik?fref=ufi",
+    url:          "https://www.facebook.com/le.mobidik",
     facebook_id:  "le.mobidik"
   },
   {
@@ -220,7 +220,7 @@ var users_data = [
     address:      "Meiendorf",
     lat:          53.6364315,
     lng:          10.162594899999931,
-    url:          "https://www.facebook.com/ewgenia.kos?fref=ufi",
+    url:          "https://www.facebook.com/ewgenia.kos",
     facebook_id:  "ewgenia.kos"
   },
   {
@@ -228,7 +228,7 @@ var users_data = [
     address:      "Schenefeld",
     lat:          53.6021622,
     lng:          9.837433000000033,
-    url:          "https://www.facebook.com/lyamayeva?fref=ufi",
+    url:          "https://www.facebook.com/lyamayeva",
     facebook_id:  "lyamayeva"
   },
   {
@@ -236,7 +236,7 @@ var users_data = [
     address:      "Langenhorn",
     lat:          53.65000000000001,
     lng:          10,
-    url:          "https://www.facebook.com/nadin.maier.5?fref=ufi",
+    url:          "https://www.facebook.com/nadin.maier.5",
     facebook_id:  "nadin.maier.5"
   },
   {
@@ -244,7 +244,7 @@ var users_data = [
     address:      "Hohenfelde",
     lat:          53.561667,
     lng:          10.020833000000039,
-    url:          "https://www.facebook.com/iryna.zhurakovska?fref=ufi",
+    url:          "https://www.facebook.com/iryna.zhurakovska",
     facebook_id:  "iryna.zhurakovska"
   },
   {
@@ -252,7 +252,7 @@ var users_data = [
     address:      "Barmbek-Nord",
     lat:          53.6052,
     lng:          10.03988000000004,
-    url:          "https://www.facebook.com/nsadovnik?fref=ufi",
+    url:          "https://www.facebook.com/nsadovnik",
     facebook_id:  "nsadovnik"
   },
   {
@@ -260,7 +260,7 @@ var users_data = [
     address:      "Altstadt",
     lat:          53.55,
     lng:          10,
-    url:          "https://www.facebook.com/maria.sia.92?fref=ufi",
+    url:          "https://www.facebook.com/maria.sia.92",
     facebook_id:  "maria.sia.92"
   },
   {
@@ -268,15 +268,15 @@ var users_data = [
     address:      "Harburg",
     lat:          53.4607681,
     lng:          9.98358440000004,
-    url:          "https://www.facebook.com/andrey.martynenko.73?fref=ufi",
+    url:          "https://www.facebook.com/andrey.martynenko.73",
     facebook_id:  "andrey.martynenko.73"
   },
   {
     name:         "Aleksandra Geylyk",
-    address:      "Borgfelde",
-    lat:          53.55475,
-    lng:          10.034470000000056,
-    url:          "https://www.facebook.com/aleksandra.geylyk?fref=ufi",
+    address:      "Farmsen",
+    lat:          53.607203,
+    lng:          10.11781300000007,
+    url:          "https://www.facebook.com/aleksandra.geylyk",
     facebook_id:  "aleksandra.geylyk"
   },
   {
@@ -284,7 +284,7 @@ var users_data = [
     address:      "Horn",
     lat:          53.55,
     lng:          10.083333000000039,
-    url:          "https://www.facebook.com/perunow?fref=ufi",
+    url:          "https://www.facebook.com/perunow",
     facebook_id:  "perunow"
   },
   {
@@ -292,7 +292,7 @@ var users_data = [
     address:      "Harburg",
     lat:          53.4607681,
     lng:          9.98358440000004,
-    url:          "https://www.facebook.com/iryna.zhyvotova?fref=ufi",
+    url:          "https://www.facebook.com/iryna.zhyvotova",
     facebook_id:  "iryna.zhyvotova"
   },
   {
@@ -300,7 +300,7 @@ var users_data = [
     address:      "Dammtor",
     lat:          53.5607537,
     lng:          9.991047200000025,
-    url:          "https://www.facebook.com/profile.php?id=100002090835906&fref=ufi",
+    url:          "https://www.facebook.com/profile.php?id=100002090835906",
     facebook_id:  "100002090835906"
   },
   {
@@ -308,7 +308,7 @@ var users_data = [
     address:      "Hitzacker Wendland",
     lat:          53.133333,
     lng:          11.049999999999955,
-    url:          "https://www.facebook.com/lange.hitzacker?fref=ufi",
+    url:          "https://www.facebook.com/lange.hitzacker",
     facebook_id:  "lange.hitzacker"
   },
   {
@@ -316,7 +316,7 @@ var users_data = [
     address:      "Eissendorf, Harburg",
     lat:          53.45583,
     lng:          9.954579999999964,
-    url:          "https://www.facebook.com/liana.lianka.94?fref=ufi",
+    url:          "https://www.facebook.com/liana.lianka.94",
     facebook_id:  "liana.lianka.94"
   },
   {
@@ -324,7 +324,7 @@ var users_data = [
     address:      "Barmbek Süd",
     lat:          53.58007300000001,
     lng:          10.040671999999972,
-    url:          "https://www.facebook.com/dimavergel?fref=ufi",
+    url:          "https://www.facebook.com/dimavergel",
     facebook_id:  "dimavergel"
   },
   {
@@ -332,7 +332,7 @@ var users_data = [
     address:      "Blankenese",
     lat:          53.5663436,
     lng:          9.798388799999998,
-    url:          "https://www.facebook.com/olya.lapa.9?fref=ufi",
+    url:          "https://www.facebook.com/olya.lapa.9",
     facebook_id:  "olya.lapa.9"
   },
   {
@@ -340,7 +340,7 @@ var users_data = [
     address:      "Harburg",
     lat:          53.4607681,
     lng:          9.98358440000004,
-    url:          "https://www.facebook.com/mariia.fedorova.5?fref=ufi",
+    url:          "https://www.facebook.com/mariia.fedorova.5",
     facebook_id:  "mariia.fedorova.5"
   },
   {
@@ -348,7 +348,7 @@ var users_data = [
     address:      "Harburg",
     lat:          53.4607681,
     lng:          9.98358440000004,
-    url:          "https://www.facebook.com/ira.systaluk?fref=ufi",
+    url:          "https://www.facebook.com/ira.systaluk",
     facebook_id:  "ira.systaluk"
   },
   {
@@ -356,7 +356,7 @@ var users_data = [
     address:      "Braunschweig",
     lat:          52.2688736,
     lng:          10.526769599999966,
-    url:          "https://www.facebook.com/FCBayernMunchen4ever?fref=ufi",
+    url:          "https://www.facebook.com/FCBayernMunchen4ever",
     facebook_id:  "FCBayernMunchen4ever"
   },
   {
@@ -364,7 +364,7 @@ var users_data = [
     address:      "Wedel",
     lat:          53.58238129999999,
     lng:          9.71374650000007,
-    url:          "https://www.facebook.com/leonid.shenderov?fref=ufi",
+    url:          "https://www.facebook.com/leonid.shenderov",
     facebook_id:  "leonid.shenderov"
   },
   {
@@ -372,7 +372,7 @@ var users_data = [
     address:      "Börnsen",
     lat:          53.4687649,
     lng:          10.281987399999934,
-    url:          "https://www.facebook.com/kristina.stepanenko.92?fref=ufi",
+    url:          "https://www.facebook.com/kristina.stepanenko.92",
     facebook_id:  "kristina.stepanenko.92"
   },
   {
@@ -380,7 +380,7 @@ var users_data = [
     address:      "Izstedt",
     lat:          53.80787180000001,
     lng:          10.157454700000017,
-    url:          "https://www.facebook.com/uljana.boyda?fref=ufi",
+    url:          "https://www.facebook.com/uljana.boyda",
     facebook_id:  "uljana.boyda"
   },
   {
@@ -388,7 +388,7 @@ var users_data = [
     address:      "Harburg",
     lat:          53.4607681,
     lng:          9.98358440000004,
-    url:          "https://www.facebook.com/profile.php?id=100005147586282&fref=ufi",
+    url:          "https://www.facebook.com/profile.php?id=100005147586282",
     facebook_id:  "100005147586282"
   },
   {
@@ -396,7 +396,7 @@ var users_data = [
     address:      "Uhlenhorst/Winterhude",
     lat:          53.5725,
     lng:          10.018610999999964,
-    url:          "https://www.facebook.com/julia.vynokur?fref=ufi",
+    url:          "https://www.facebook.com/julia.vynokur",
     facebook_id:  "julia.vynokur"
   },
   {
@@ -404,7 +404,7 @@ var users_data = [
     address:      "Hummelsbüttel",
     lat:          53.64773,
     lng:          10.041490000000067,
-    url:          "https://www.facebook.com/yuliya.mavrodiyeva?fref=ufi",
+    url:          "https://www.facebook.com/yuliya.mavrodiyeva",
     facebook_id:  "yuliya.mavrodiyeva"
   },
   {
@@ -412,7 +412,7 @@ var users_data = [
     address:      "Barmbek Süd",
     lat:          53.58007300000001,
     lng:          10.040671999999972,
-    url:          "https://www.facebook.com/idbulanowa?fref=ufi",
+    url:          "https://www.facebook.com/idbulanowa",
     facebook_id:  "idbulanowa"
   },
   {
@@ -420,7 +420,7 @@ var users_data = [
     address:      "Ahrensburg",
     lat:          53.6764136,
     lng:          10.237885399999982,
-    url:          "https://www.facebook.com/millarneu?fref=ufi",
+    url:          "https://www.facebook.com/millarneu",
     facebook_id:  "millarneu"
   },
   {
@@ -428,7 +428,7 @@ var users_data = [
     address:      "Harburg-Heimfeld",
     lat:          53.464014,
     lng:          9.956238999999982,
-    url:          "https://www.facebook.com/profile.php?id=100001568798402&fref=ufi",
+    url:          "https://www.facebook.com/profile.php?id=100001568798402",
     facebook_id:  "100001568798402"
   },
   {
@@ -436,7 +436,7 @@ var users_data = [
     address:      "Hamm",
     lat:          53.5531447,
     lng:          10.055475500000057,
-    url:          "https://www.facebook.com/OlKaOle?fref=ufi",
+    url:          "https://www.facebook.com/OlKaOle",
     facebook_id:  "OlKaOle"
   },
   {
@@ -444,7 +444,7 @@ var users_data = [
     address:      "Wandsbek",
     lat:          53.5830764,
     lng:          10.08263379999994,
-    url:          "https://www.facebook.com/svitlana.syzonyuk?fref=ufi",
+    url:          "https://www.facebook.com/svitlana.syzonyuk",
     facebook_id:  "svitlana.syzonyuk"
   },
   {
@@ -452,7 +452,7 @@ var users_data = [
     address:      "Billstedt",
     lat:          53.540556,
     lng:          10.100000000000023,
-    url:          "https://www.facebook.com/dmytriy.dyadyuk?fref=ufi",
+    url:          "https://www.facebook.com/dmytriy.dyadyuk",
     facebook_id:  "dmytriy.dyadyuk"
   },
   {
@@ -460,7 +460,7 @@ var users_data = [
     address:      "Neustadt",
     lat:          53.55196,
     lng:          9.985580000000027,
-    url:          "https://www.facebook.com/alla.khramtsova?fref=ufi",
+    url:          "https://www.facebook.com/alla.khramtsova",
     facebook_id:  "alla.khramtsova"
   },
   {
@@ -468,7 +468,7 @@ var users_data = [
     address:      "Eppendorf",
     lat:          53.59555599999999,
     lng:          9.983888999999976,
-    url:          "https://www.facebook.com/anna.lat.528?fref=ufi",
+    url:          "https://www.facebook.com/anna.lat.528",
     facebook_id:  "anna.lat.528"
   },
   {
@@ -476,7 +476,7 @@ var users_data = [
     address:      "Rahlstedt",
     lat:          53.6144198,
     lng:          10.156074499999932,
-    url:          "https://www.facebook.com/zoryana.terletska?fref=ufi",
+    url:          "https://www.facebook.com/zoryana.terletska",
     facebook_id:  "zoryana.terletska"
   },
   {
@@ -484,7 +484,7 @@ var users_data = [
     address:      "Ahrensburg",
     lat:          53.6764136,
     lng:          10.237885399999982,
-    url:          "https://www.facebook.com/irina.prykhodko.9?fref=ufi",
+    url:          "https://www.facebook.com/irina.prykhodko.9",
     facebook_id:  "irina.prykhodko.9"
   },
   {
@@ -492,7 +492,7 @@ var users_data = [
     address:      "Hamm-Süd",
     lat:          53.5460235,
     lng:          10.064338700000008,
-    url:          "https://www.facebook.com/violetta.sadevich?fref=ufi",
+    url:          "https://www.facebook.com/violetta.sadevich",
     facebook_id:  "violetta.sadevich"
   },
   {
@@ -500,7 +500,7 @@ var users_data = [
     address:      "Harburg",
     lat:          53.4607681,
     lng:          9.98358440000004,
-    url:          "https://www.facebook.com/profile.php?id=100004287255434&fref=ufi",
+    url:          "https://www.facebook.com/profile.php?id=100004287255434",
     facebook_id:  "100004287255434"
   },
   {
@@ -508,7 +508,7 @@ var users_data = [
     address:      "Langenhorn",
     lat:          53.65000000000001,
     lng:          10,
-    url:          "https://www.facebook.com/serge.sintschenko?fref=ufi",
+    url:          "https://www.facebook.com/serge.sintschenko",
     facebook_id:  "serge.sintschenko"
   },
   {
@@ -516,7 +516,7 @@ var users_data = [
     address:      "Eppendorf",
     lat:          53.59555599999999,
     lng:          9.983888999999976,
-    url:          "https://www.facebook.com/ann.iskova?fref=ufi",
+    url:          "https://www.facebook.com/ann.iskova",
     facebook_id:  "ann.iskova"
   },
   {
@@ -524,7 +524,7 @@ var users_data = [
     address:      "Süderstraße",
     lat:          53.5481871,
     lng:          10.046757399999933,
-    url:          "https://www.facebook.com/sergey.baryshev.35?fref=ufi",
+    url:          "https://www.facebook.com/sergey.baryshev.35",
     facebook_id:  "sergey.baryshev.35"
   },
   {
@@ -535,6 +535,102 @@ var users_data = [
     url:          "https://www.facebook.com/oksana.maryskevych.5",
     facebook_id:  "oksana.maryskevych.5"
   },
+  {
+    name:         "Masha Kapitan",
+    address:      "Osdorf",
+    lat:          53.572222,
+    lng:          9.843055999999933,
+    url:          "https://www.facebook.com/masha.kapitan",
+    facebook_id:  "masha.kapitan"
+  },
+  {
+    name:         "Ivan Smirnov",
+    address:      "Harburg",
+    lat:          53.4607681,
+    lng:          9.98358440000004,
+    url:          "https://www.facebook.com/profile.php?id=100004287255434",
+    facebook_id:  "100004287255434"
+  },
+  {
+    name:         "Kateryna Melnychenko",
+    address:      "Rotenburgsort",
+    lat:          53.535,
+    lng:          10.040556000000038,
+    url:          "https://www.facebook.com/kateryna.melnychenko.37",
+    facebook_id:  "kateryna.melnychenko.37"
+  },
+  {
+    name:         "Yuriy Yoy",
+    address:      "Langenhorn",
+    lat:          53.65000000000001,
+    lng:          10,
+    url:          "https://www.facebook.com/yuriy.hamburg",
+    facebook_id:  "yuriy.hamburg"
+  },
+  {
+    name:         "Vika Linne",
+    address:      "Eimsbüttel",
+    lat:          53.57476750000001,
+    lng:          9.959453199999984,
+    url:          "https://www.facebook.com/viktoriya.linnemann",
+    facebook_id:  "viktoriya.linnemann"
+  },
+  {
+    name:         "Olga Pavlova",
+    address:      "Volksdorf",
+    lat:          53.649722,
+    lng:          10.184167000000002,
+    url:          "https://www.facebook.com/pavlova.olya",
+    facebook_id:  "pavlova.olya"
+  },
+  {
+    name:         "Martha Dubanevich",
+    address:      "Othmarschen",
+    lat:          53.552778,
+    lng:          9.894444000000021,
+    url:          "https://www.facebook.com/marta.dubanevic",
+    facebook_id:  "marta.dubanevic"
+  },
+  {
+    name:         "Yuliya Zarichna",
+    address:      "Othmarschen",
+    lat:          53.552778,
+    lng:          9.894444000000021,
+    url:          "https://www.facebook.com/yulya.zarichna",
+    facebook_id:  "yulya.zarichna"
+  },
+  {
+    name:         "Anna Lat",
+    address:      "Eppendorf",
+    lat:          53.59555599999999,
+    lng:          9.983888999999976,
+    url:          "https://www.facebook.com/anna.lat.528",
+    facebook_id:  "anna.lat.528"
+  },
+  {
+    name:         "Inna Borysyuk",
+    address:      "Eppendorf",
+    lat:          53.59555599999999,
+    lng:          9.983888999999976,
+    url:          "https://www.facebook.com/inusja.inna",
+    facebook_id:  "inusja.inna"
+  },
+  {
+    name:         "Zara Pani",
+    address:      "Mundsburg",
+    lat:          53.569438,
+    lng:          10.027558999999997,
+    url:          "https://www.facebook.com/zara.pani",
+    facebook_id:  "zara.pani"
+  },
+  {
+    name:         "Людмила Дримак-Вільмс",
+    address:      "Schwarzenbek",
+    lat:          53.49986,
+    lng:          10.460976999999957,
+    url:          "https://www.facebook.com/lyudmila.wilms",
+    facebook_id:  "lyudmila.wilms"
+  }
 ];
 
 
