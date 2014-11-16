@@ -630,7 +630,15 @@ var users_data = [
     lng:          10.460976999999957,
     url:          "https://www.facebook.com/lyudmila.wilms",
     facebook_id:  "lyudmila.wilms"
-  }
+  },
+  {
+    name:         "Svitlana Buergers-Vereshchak",
+    address:      "HafenCity",
+    lat:          53.541667,
+    lng:          9.993333000000007,
+    url:          "https://www.facebook.com/svitlana.hartmann",
+    facebook_id:  "svitlana.hartmann"
+  },
 ];
 
 
