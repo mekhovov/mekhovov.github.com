@@ -86,7 +86,6 @@ $(function() {
       $('#markers-with-coordinates').append('<li><a href="#" class="pan-to-marker" data-marker-lat="' + marker.getPosition().lat() + '" data-marker-lng="' + marker.getPosition().lng() + '">' + marker.title + '</a></li>');
     });
 
-
     // app users to map
     $.each( map_data, function( i, user ) {
 
@@ -162,5 +161,15 @@ $(function() {
     map.setZoom(14);
   });
 
+
+  // users/distincts statistic
+  var distincts_count = map_data.length;
+  var users_count = 0;
+  $.each( map_data, function( i, distinct ) {
+    users_count += distinct.users_count;
+  });
+
+  $("#users_count").html(users_count);
+  $("#distincts_count").html(distincts_count);
 
 });
