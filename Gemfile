@@ -6,3 +6,4 @@ gem "liquid"
 gem "nokogiri"
 gem "rdiscount"
 gem 'RedCloth'
+gem 'iconv'

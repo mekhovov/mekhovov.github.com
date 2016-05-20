@@ -10,6 +10,7 @@ GEM
     directory_watcher (1.4.1)
     fast-stemmer (1.0.2)
     highline (1.6.19)
+    iconv (1.0.4)
     jekyll (1.1.2)
       classifier (~> 1.3)
       colorator (~> 0.1)
@@ -44,6 +45,7 @@ PLATFORMS
 
 DEPENDENCIES
   RedCloth
+  iconv
   jekyll
   jekyll_ext
   liquid
