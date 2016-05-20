@@ -26,7 +26,7 @@ tags: [speaker, railsgirls, co-organizer, ru]
 #### Фотки 
 * [part-1 on Facebook](http://www.facebook.com/media/set/?set=a.195389347262361.48964.163129323821697&type=3)
 * [part-2 on Facebook](http://www.facebook.com/media/set/?set=a.195392280595401.48965.163129323821697&type=3)
-* [oart-3 on GooglePlus](https://plus.google.com/photos/108854724146968003782/albums/5796468822708486961)
+* [part-3 on GooglePlus](https://plus.google.com/photos/108854724146968003782/albums/5796468822708486961)
 
 #### Презентации 
 * [все презентации]( https://speakerdeck.com/u/rg_ukraine)
@@ -46,7 +46,3 @@ tags: [speaker, railsgirls, co-organizer, ru]
 * RubyMix (party): [devil-tinto](http://devil-tinto.herokuapp.com)
 * Rails Masyanya (travel): [placesapp](http://placesapp.herokuapp.com)
 * Brilliant Mind (travel): [murmuring-scrubland-9104](http://murmuring-scrubland-9104.herokuapp.com), [brilliant-trip](http://brilliant-trip.herokuapp.com)
-
-
-
-PS: Видео в процессе обработки..

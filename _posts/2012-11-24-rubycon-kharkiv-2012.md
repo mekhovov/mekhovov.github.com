@@ -21,7 +21,6 @@ tags: [speaker, rubycon, ru]
 
 <!-- more -->
 
-![RubYcon, Харьков]({{ site.production_url }}/images/conference/rubycon-20.jpg "RubYcon, Харьков")
 
 Анонс конференции [на сайте Soft Serve](http://softserve.ua/press-center/events/rubycon-2012).
 
@@ -101,9 +100,6 @@ Lightning Talks прошел на ура, ребята так впечатлил
 ![RubYcon, Харьков]({{ site.production_url }}/images/conference/rubycon-09.jpg "RubYcon, Харьков")
 ![RubYcon, Харьков]({{ site.production_url }}/images/conference/rubycon-10.jpg "RubYcon, Харьков")
 ![RubYcon, Харьков]({{ site.production_url }}/images/conference/rubycon-12.jpg "RubYcon, Харьков")
-![RubYcon, Харьков]({{ site.production_url }}/images/conference/rubycon-13.jpg "RubYcon, Харьков")
 ![RubYcon, Харьков]({{ site.production_url }}/images/conference/rubycon-14.jpg "RubYcon, Харьков")
-![RubYcon, Харьков]({{ site.production_url }}/images/conference/rubycon-16.jpg "RubYcon, Харьков")
-![RubYcon, Харьков]({{ site.production_url }}/images/conference/rubycon-17.jpg "RubYcon, Харьков")
 ![RubYcon, Харьков]({{ site.production_url }}/images/conference/rubycon-18.jpg "RubYcon, Харьков")
 ![RubYcon, Харьков]({{ site.production_url }}/images/conference/rubycon-19.jpg "RubYcon, Харьков")
