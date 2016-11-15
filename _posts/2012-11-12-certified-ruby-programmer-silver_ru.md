@@ -45,7 +45,6 @@ P.P.S. обе сертификации по Ruby 2.1.x сейчас (раньш�
 
 ![Ruby Association]({{ site.production_url }}/images/achievements/logo_programmer.jpg "Silver")
 
-![Ruby Association]({{ site.production_url }}/images/achievements/logo_gold_v21.png "Gold")
 
 
 

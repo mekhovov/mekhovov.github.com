@@ -46,7 +46,6 @@ P.P.S. both Certifications on Ruby 2.1.x now (it was Ruby 1.8)
 
 ![Ruby Association]({{ site.production_url }}/images/achievements/logo_programmer.jpg "Silver")
 
-![Ruby Association]({{ site.production_url }}/images/achievements/logo_gold_v21.png "Gold")
 
 
 
