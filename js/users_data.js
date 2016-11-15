@@ -554,8 +554,8 @@ var users_data = [
   {
     name:         "Kateryna Melnychenko",
     address:      "Rotenburgsort",
-    lat:          53.535,
-    lng:          10.040556000000038,
+    lat:          53.537306,
+    lng:          10.047682000000009,
     url:          "https://www.facebook.com/kateryna.melnychenko.37",
     facebook_id:  "kateryna.melnychenko.37"
   },
@@ -654,6 +654,46 @@ var users_data = [
     lng:          9.91425240000001,
     url:          "https://www.facebook.com/annushka.kukoba",
     facebook_id:  "annushka.kukoba"
+  },
+  {
+    name:         "Julia Rodik",
+    address:      "Farmsen",
+    lat:          53.60716259999999,
+    lng:          10.117755699999975,
+    url:          "https://www.facebook.com/julia.rodik",
+    facebook_id:  "julia.rodik"
+  },
+  {
+    name:         "Nataliya Ross",
+    address:      "Barmbek-Nord",
+    lat:          53.5945062,
+    lng:          10.050012400000014,
+    url:          "https://www.facebook.com/nataliya.ross",
+    facebook_id:  "nataliya.ross"
+  },
+  {
+    name:         "Irina Grishchenko",
+    address:      "Schwerin",
+    lat:          53.6355022,
+    lng:          11.401249900000039,
+    url:          "https://www.facebook.com/irina.grishchenko.96",
+    facebook_id:  "irina.grishchenko.96"
+  },
+  {
+    name:         "Irina Grishchenko",
+    address:      "Schwerin",
+    lat:          53.6355022,
+    lng:          11.401249900000039,
+    url:          "https://www.facebook.com/irina.grishchenko.96",
+    facebook_id:  "irina.grishchenko.96"
+  },
+  {
+    name:         "Tatyana  Tropanets",
+    address:      "Neugraben",
+    lat:          53.477073,
+    lng:          9.857907000000068,
+    url:          "https://www.facebook.com/tatyana.tropanets.3",
+    facebook_id:  "tatyana.tropanets.3"
   },
 ];
 
