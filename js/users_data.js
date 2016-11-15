@@ -155,9 +155,9 @@ var users_data = [
   },
   {
     name:         "Tanya Biz",
-    address:      "Eilbek/Wandsbek",
-    lat:          53.45583,
-    lng:          9.954579999999964,
+    address:      "Von-Sauer-Strasse, Bahrenfeld",
+    lat:          53.5657375,
+    lng:          9.911083200000007,
     url:          "https://www.facebook.com/TanyaBizz",
     facebook_id:  "TanyaBizz"
   },
@@ -686,6 +686,14 @@ var users_data = [
     lng:          9.857907000000068,
     url:          "https://www.facebook.com/tatyana.tropanets.3",
     facebook_id:  "tatyana.tropanets.3"
+  },
+  {
+    name:         "Hanna Znanewitz",
+    address:      "Lübeck",
+    lat:          53.86546729999999,
+    lng:          10.686559299999999,
+    url:          "https://www.facebook.com/ann.barat",
+    facebook_id:  "ann.barat"
   },
 ];
 
