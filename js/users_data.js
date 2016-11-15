@@ -505,9 +505,9 @@ var users_data = [
   },
   {
     name:         "Serge Sintschenko",
-    address:      "Langenhorn",
-    lat:          53.65000000000001,
-    lng:          10,
+    address:      "Uhlenhorst",
+    lat:          53.56985659999999,
+    lng:          10.018216800000005,
     url:          "https://www.facebook.com/serge.sintschenko",
     facebook_id:  "serge.sintschenko"
   },
