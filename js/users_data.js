@@ -639,6 +639,14 @@ var users_data = [
     url:          "https://www.facebook.com/svitlana.hartmann",
     facebook_id:  "svitlana.hartmann"
   },
+  {
+    name:         "Milly Miles",
+    address:      "Rissen",
+    lat:          53.5935339,
+    lng:          9.766826000000037,
+    url:          "https://www.facebook.com/galyna.schneider",
+    facebook_id:  "galyna.schneider"
+  },
 ];
 
 
