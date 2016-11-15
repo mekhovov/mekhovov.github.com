@@ -711,7 +711,22 @@ var users_data = [
     url:          "https://www.facebook.com/profile.php?id=100006178665271",
     facebook_id:  "100006178665271"
   },
-  
+  {
+    name:         "Svitlana Latkina",
+    address:      "Rissen",
+    lat:          53.5935339,
+    lng:          9.766826000000037,
+    url:          "https://www.facebook.com/suntori",
+    facebook_id:  "suntori"
+  },
+  {
+    name:         "Ira Atamaniuk",
+    address:      "Harburg",
+    lat:          53.4607681,
+    lng:          9.98358440000004,
+    url:          "https://www.facebook.com/profile.php?id=100001673251052",
+    facebook_id:  "100001673251052"
+  },
 ];
 
 
