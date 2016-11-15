@@ -11,11 +11,13 @@ tags: [sinatra, en]
 
 #### Sinatra: Sing with me this ditty
 
-This presentation created with love. You can see it [here](http://sinatra-sing-with-me.heroku.com).
-The [source code](https://github.com/mekhovov/sinatra_presentation) is on GitHub. Welcome to contribute!
+This presentation created with love.
+I's here [here](http://sinatra-sing-with-me.heroku.com).
+The [source code](https://github.com/mekhovov/sinatra_presentation) is on GitHub
 
-Agenda 
-#### 
+Watch it on Youtube: [part 1](https://youtu.be/b_hD2zyjaRE) and [part 2](https://youtu.be/Qx3hZrMy2bI)
+
+##### Agenda #####
 * [Sinatra: about](http://sinatra-sing-with-me.heroku.com/slide4)
 * [Site: up and running](http://sinatra-sing-with-me.heroku.com/slide35)
 * [Deploy: in minutes](http://sinatra-sing-with-me.heroku.com/slide49)
@@ -25,7 +27,7 @@ Agenda
 
 <!-- more -->
 
-This presenattion created for [Pacemaker:JS 2012](http://pacemaker.softserve.ua/js-2012/about) Conference.
+This presenattion created for [Pacemaker:JS 2012](http://www.pacemaker.in.ua/JS-2012/speakers) Conference.
 
 Some slides ...
 
