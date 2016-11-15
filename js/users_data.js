@@ -647,6 +647,14 @@ var users_data = [
     url:          "https://www.facebook.com/galyna.schneider",
     facebook_id:  "galyna.schneider"
   },
+  {
+    name:         "Milly Miles",
+    address:      "Hamburg-Heimfeld",
+    lat:          53.4611602,
+    lng:          9.91425240000001,
+    url:          "https://www.facebook.com/annushka.kukoba",
+    facebook_id:  "annushka.kukoba"
+  },
 ];
 
 
