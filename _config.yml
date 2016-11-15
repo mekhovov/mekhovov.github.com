@@ -5,7 +5,7 @@ permalink: /:categories/:title
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 auto: true
 pygments: true
-markdown: rdiscount
+markdown: kramdown
 highlighter: rouge
 # paginate: 5
 
