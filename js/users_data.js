@@ -680,14 +680,6 @@ var users_data = [
     facebook_id:  "irina.grishchenko.96"
   },
   {
-    name:         "Irina Grishchenko",
-    address:      "Schwerin",
-    lat:          53.6355022,
-    lng:          11.401249900000039,
-    url:          "https://www.facebook.com/irina.grishchenko.96",
-    facebook_id:  "irina.grishchenko.96"
-  },
-  {
     name:         "Tatyana  Tropanets",
     address:      "Neugraben",
     lat:          53.477073,
