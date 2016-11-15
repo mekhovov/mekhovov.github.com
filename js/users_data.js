@@ -7,7 +7,7 @@ var users_data = [
     lat:          53.553056,
     lng:          10.015277999999967,
     url:          "https://www.facebook.com/mekhovov",
-    facebook_id:  "mekhovov"
+    facebook_id:  "100001834992045"
   },
   {
     name:         "Lena Samus",
@@ -58,12 +58,12 @@ var users_data = [
     facebook_id:  "tetiana.sosyniuk"
   },
   {
-    name:         "Ірина Макар",
+    name:         "Iryna Makar",
     address:      "st. Georg",
     lat:          53.553056,
     lng:          10.015277999999967,
-    url:          "https://www.facebook.com/iryna.makar",
-    facebook_id:  "iryna.makar"
+    url:          "https://www.facebook.com/ko2mirka",
+    facebook_id:  "ko2mirka"
   },
   {
     name:         "Ilona Lock",
@@ -695,6 +695,23 @@ var users_data = [
     url:          "https://www.facebook.com/ann.barat",
     facebook_id:  "ann.barat"
   },
+  {
+    name:         "Alexei Pavlovic",
+    address:      "Eimsbüttel",
+    lat:          53.5747675,
+    lng:          9.959453199999984,
+    url:          "https://www.facebook.com/alexei.pavlovic",
+    facebook_id:  "alexei.pavlovic"
+  },
+  {
+    name:         "Neonila Janiska",
+    address:      "Rahlstedt",
+    lat:          53.6144198,
+    lng:          10.156074499999932,
+    url:          "https://www.facebook.com/profile.php?id=100006178665271",
+    facebook_id:  "100006178665271"
+  },
+  
 ];
 
 
