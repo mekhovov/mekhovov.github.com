@@ -3,7 +3,7 @@
 var users_data = [
   {
     name:         "Alex Mekhovov",
-    address:      "st. Georg",
+    address:      "St Georg",
     lat:          53.553056,
     lng:          10.015277999999967,
     url:          "https://www.facebook.com/mekhovov",
@@ -59,7 +59,7 @@ var users_data = [
   },
   {
     name:         "Iryna Makar",
-    address:      "st. Georg",
+    address:      "St Georg",
     lat:          53.553056,
     lng:          10.015277999999967,
     url:          "https://www.facebook.com/ko2mirka",
@@ -457,17 +457,17 @@ var users_data = [
   },
   {
     name:         "Alla Khramtsova",
-    address:      "Neustadt",
-    lat:          53.55196,
-    lng:          9.985580000000027,
+    address:      "Halstenbek-Krupunder",
+    lat:          53.6161962,
+    lng:          9.867292799999973,
     url:          "https://www.facebook.com/alla.khramtsova",
     facebook_id:  "alla.khramtsova"
   },
   {
     name:         "Anna Lat",
-    address:      "Eppendorf",
-    lat:          53.59555599999999,
-    lng:          9.983888999999976,
+    address:      "Quickborn",
+    lat:          53.7289353,
+    lng:          9.907876600000009,
     url:          "https://www.facebook.com/anna.lat.528",
     facebook_id:  "anna.lat.528"
   },
@@ -633,9 +633,9 @@ var users_data = [
   },
   {
     name:         "Svitlana Buergers-Vereshchak",
-    address:      "HafenCity",
-    lat:          53.541667,
-    lng:          9.993333000000007,
+    address:      "Ottensen",
+    lat:          53.55602559999999,
+    lng:          9.922616500000004,
     url:          "https://www.facebook.com/svitlana.hartmann",
     facebook_id:  "svitlana.hartmann"
   },
@@ -726,6 +726,286 @@ var users_data = [
     lng:          9.98358440000004,
     url:          "https://www.facebook.com/profile.php?id=100001673251052",
     facebook_id:  "100001673251052"
+  },
+  {
+    name:         "Dmytro Kutnyakhov ",
+    address:      "Osdorf",
+    lat:          53.575677,
+    lng:          9.850690999999983,
+    url:          "https://www.facebook.com/dmytro.kutnyakhov",
+    facebook_id:  "dmytro.kutnyakhov"
+  },
+  {
+    name:         "Artur Kovalenko ",
+    address:      "Sasel",
+    lat:          53.6514412,
+    lng:          10.12043360000007,
+    url:          "https://www.facebook.com/profile.php?id=100000983287080",
+    facebook_id:  "100000983287080"
+  },
+  {
+    name:         "Pavlo Maksymenko",
+    address:      "Winterhude",
+    lat:          53.5973104,
+    lng:          10.009203999999954,
+    url:          "https://www.facebook.com/pavlo.maksymenko",
+    facebook_id:  "pavlo.maksymenko"
+  },
+  {
+    name:         "Marusya Nechuray",
+    address:      "Eppendorf",
+    lat:          53.5941509,
+    lng:          9.98942999999997,
+    url:          "https://www.facebook.com/maria.nechuray",
+    facebook_id:  "maria.nechuray"
+  },
+  {
+    name:         "Walt Teti",
+    address:      "Billstedt",
+    lat:          53.540426,
+    lng:          10.139474999999948,
+    url:          "https://www.facebook.com/tanja.walter.794",
+    facebook_id:  "tanja.walter.794"
+  },
+  {
+    name:         "Yuliia Sheikina",
+    address:      "Winterhude",
+    lat:          53.5973104,
+    lng:          10.009203999999954,
+    url:          "https://www.facebook.com/profile.php?id=100003627235087",
+    facebook_id:  "100003627235087"
+  },
+  {
+    name:         "Inna Borysyuk",
+    address:      "Lokstedt",
+    lat:          53.5991339,
+    lng:          9.958529399999975,
+    url:          "https://www.facebook.com/inusja.inna",
+    facebook_id:  "inusja.inna"
+  },
+  {
+    name:         "Oksana Luziv",
+    address:      "Veddel",
+    lat:          53.5190743,
+    lng:          10.037155799999937,
+    url:          "https://www.facebook.com/oksana.poljova",
+    facebook_id:  "oksana.poljova"
+  },
+  {
+    name:         "Ulia Bo",
+    address:      "Harburg",
+    lat:          53.4607785,
+    lng:          9.983418400000005,
+    url:          "https://www.facebook.com/liana.lianka.94",
+    facebook_id:  "liana.lianka.94"
+  },
+  {
+    name:         "Olja Fedyna",
+    address:      "Osdorf",
+    lat:          53.575677,
+    lng:          9.850690999999983,
+    url:          "https://www.facebook.com/olja.smerechanska",
+    facebook_id:  "olja.smerechanska"
+  },
+  {
+    name:         "Oksana Kovacs",
+    address:      "Niendorf",
+    lat:          53.6320186,
+    lng:          9.961822799999936,
+    url:          "https://www.facebook.com/okszana.kovacs.5",
+    facebook_id:  "okszana.kovacs.5"
+  },
+  {
+    name:         "Alexandria Juppiter",
+    address:      "Lokstedt",
+    lat:          53.5991339,
+    lng:          9.958529399999975,
+    url:          "https://www.facebook.com/lo.relei.1426",
+    facebook_id:  "lo.relei.1426"
+  },
+  {
+    name:         "Olesia Rybak Doderlain",
+    address:      "Othmarschen",
+    lat:          53.5508168,
+    lng:          9.88681900000006,
+    url:          "https://www.facebook.com/olesia.rybakdoderlain",
+    facebook_id:  "olesia.rybakdoderlain"
+  },
+  {
+    name:         "Jana Kostak",
+    address:      "Wandsbek Gartenstadt",
+    lat:          53.59235650000001,
+    lng:          10.073983999999996,
+    url:          "https://www.facebook.com/jana.kostak",
+    facebook_id:  "jana.kostak"
+  },
+  {
+    name:         "Andrew Gerasymchuk",
+    address:      "Hamm-Nord",
+    lat:          53.5596704,
+    lng:          10.057865399999969,
+    url:          "https://www.facebook.com/andrew.gerasymchuk.7",
+    facebook_id:  "andrew.gerasymchuk.7"
+  },
+  {
+    name:         "Pavló Flakh",
+    address:      "Horn",
+    lat:          53.5560148,
+    lng:          10.084835200000043,
+    url:          "https://www.facebook.com/pavlo.flakh",
+    facebook_id:  "pavlo.flakh"
+  },
+  {
+    name:         "Alex Sh",
+    address:      "Altona",
+    lat:          53.57915999999999,
+    lng:          9.874555800000053,
+    url:          "https://www.facebook.com/debugnow",
+    facebook_id:  "debugnow"
+  },
+  {
+    name:         "Irina Sigal",
+    address:      "St Pauli",
+    lat:          53.5523495,
+    lng:          9.96649160000004,
+    url:          "https://www.facebook.com/irina.sigal",
+    facebook_id:  "irina.sigal"
+  },
+  {
+    name:         "Vadim Tereshchenko",
+    address:      "Loksted",
+    lat:          53.5991339,
+    lng:          9.958529399999975,
+    url:          "https://www.facebook.com/vadim.spotty",
+    facebook_id:  "vadim.spotty"
+  },
+  {
+    name:         "Olga Lysak",
+    address:      "Uhlenhorst",
+    lat:          53.56985659999999,
+    lng:          10.018216800000005,
+    url:          "https://www.facebook.com/olga.kovalchuk.946",
+    facebook_id:  "olga.kovalchuk.946"
+  },
+  {
+    name:         "Artur Kovalenko",
+    address:      "Sasel",
+    lat:          53.6514412,
+    lng:          10.12043360000007,
+    url:          "https://www.facebook.com/profile.php?id=100000983287080",
+    facebook_id:  "100000983287080"
+  },
+  {
+    name:         "Sofiya Pavlyuk",
+    address:      "Horner Rehnbahn",
+    lat:          53.5538366,
+    lng:          10.083856999999966,
+    url:          "https://www.facebook.com/sofia.pavlyuk",
+    facebook_id:  "sofia.pavlyuk"
+  },
+  {
+    name:         "Oleksandr Bobryshev",
+    address:      "Ottensen",
+    lat:          53.55602559999999,
+    lng:          9.922616500000004,
+    url:          "https://www.facebook.com/alex.bobryshev",
+    facebook_id:  "alex.bobryshev"
+  },
+  {
+    name:         "Inna Kov",
+    address:      "Harburg",
+    lat:          53.4607681,
+    lng:          9.98358440000004,
+    url:          "https://www.facebook.com/inna.kovalenko.79",
+    facebook_id:  "inna.kovalenko.79"
+  },
+  {
+    name:         "Iryna Chabanyuk",
+    address:      "Pinneberg",
+    lat:          53.6545225,
+    lng:          9.793821200000025,
+    url:          "https://www.facebook.com/iryna.chabanyuk",
+    facebook_id:  "iryna.chabanyuk"
+  },
+  {
+    name:         "Alina Kaiser",
+    address:      "Geesthacht",
+    lat:          53.4379562,
+    lng:          10.361166499999968,
+    url:          "https://www.facebook.com/alina.kaiser.923",
+    facebook_id:  "alina.kaiser.923"
+  },
+  {
+    name:         "Ira Moscherosch",
+    address:      "Börnsen",
+    lat:          53.4687649,
+    lng:          10.281987399999934,
+    url:          "https://www.facebook.com/profile.php?id=100007950937494",
+    facebook_id:  "100007950937494"
+  },
+  {
+    name:         "Ksyscha Ksyscha",
+    address:      "Volksdorf",
+    lat:          53.6476751,
+    lng:          10.164533099999971,
+    url:          "https://www.facebook.com/oksana.wiegel",
+    facebook_id:  "oksana.wiegel"
+  },
+  {
+    name:         "Olga Vasylenko",
+    address:      "Sternschanze",
+    lat:          53.56208729999999,
+    lng:          9.96441660000005,
+    url:          "https://www.facebook.com/olga.vasylenko.10",
+    facebook_id:  "olga.vasylenko.10"
+  },
+  {
+    name:         "Iryna Meyer",
+    address:      "Wandsbek-Tonndorf",
+    lat:          53.58890109999999,
+    lng:          10.11599990000002,
+    url:          "https://www.facebook.com/iryna.meyer",
+    facebook_id:  "iryna.meyer"
+  },
+  {
+    name:         "Iryna Romanyuk",
+    address:      "Winterhude",
+    lat:          53.5973104,
+    lng:          10.009203999999954,
+    url:          "https://www.facebook.com/iryna.romanyuk.9",
+    facebook_id:  "iryna.romanyuk.9"
+  },
+  {
+    name:         "Asia V Bach",
+    address:      "Eppendorf",
+    lat:          53.5941509,
+    lng:          9.98942999999997,
+    url:          "https://www.facebook.com/anawbach",
+    facebook_id:  "anawbach"
+  },
+  {
+    name:         "Svitlana Zhukova",
+    address:      "Barsbuettel",
+    lat:          53.5715488,
+    lng:          10.175945700000057,
+    url:          "https://www.facebook.com/svitlana.hubert",
+    facebook_id:  "svitlana.hubert"
+  },
+  {
+    name:         "Oleksii Pavliuk",
+    address:      "Uhlenhorst",
+    lat:          53.56985659999999,
+    lng:          10.018216800000005,
+    url:          "https://www.facebook.com/oleksii.pavliuk",
+    facebook_id:  "oleksii.pavliuk"
+  },
+  {
+    name:         "",
+    address:      "",
+    lat:          ,
+    lng:          ,
+    url:          "",
+    facebook_id:  ""
   },
 ];
 
