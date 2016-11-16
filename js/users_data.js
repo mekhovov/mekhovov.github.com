@@ -999,14 +999,6 @@ var users_data = [
     url:          "https://www.facebook.com/oleksii.pavliuk",
     facebook_id:  "oleksii.pavliuk"
   },
-  {
-    name:         "",
-    address:      "",
-    lat:          ,
-    lng:          ,
-    url:          "",
-    facebook_id:  ""
-  },
 ];
 
 
