@@ -38,11 +38,18 @@ Useful Resources:
 * [The Ruby Programming Language](http://www.amazon.com/Ruby-Programming-Language-David-Flanagan/dp/0596516177/ref=sr_1_1?ie=UTF8&qid=1353969808&sr=8-1&keywords=ruby+programming+language) chapter 9
 * [Programming Ruby 1.9: The Pragmatic Programmers' Guide](http://www.amazon.com/Programming-Ruby-1-9-Pragmatic-Programmers/dp/1934356085/ref=sr_1_3?ie=UTF8&qid=1353969858&sr=8-3&keywords=ruby+programming+language) chapters **Built-in classes and modules** and **Standard library** - great guide about methods
 
+#### Some links
+* [http://kakakakakku.hatenablog.com/entry/2015/05/31/120924](http://kakakakakku.hatenablog.com/entry/2015/05/31/120924)
+* [http://qiita.com/ionis_h/items/027e12edd3754a82d0ee](http://qiita.com/ionis_h/items/027e12edd3754a82d0ee)
+* [http://scrtree.github.io/blog/2016/04/04/ruby-association-certified-ruby-programmer-silver-slash-gold-version2-dot-1/](http://scrtree.github.io/blog/2016/04/04/ruby-association-certified-ruby-programmer-silver-slash-gold-version2-dot-1/)
+* [http://blog.fenrir-inc.com/jp/2015/04/ruby-gold.html](http://blog.fenrir-inc.com/jp/2015/04/ruby-gold.html)
+
+
 I used [prometric](https://www.prometric.com/en-us/clients/ruby/Pages/landing.aspx) for certification
 
 P.S. there is [Gold](http://www.ruby.or.jp/en/certification/examination/) certification ready
 
-P.P.S. both Certifications on Ruby 2.1.x now (it was Ruby 1.8)
+P.P.S. both Certifications on Ruby 2.1.x (it was Ruby 1.8)
 
 ![Ruby Association]({{ site.production_url }}/images/achievements/logo_programmer.jpg "Silver")
 
