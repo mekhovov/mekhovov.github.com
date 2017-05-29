@@ -845,7 +845,7 @@ var users_data = [
     lat:          53.5596704,
     lng:          10.057865399999969,
     url:          "https://www.facebook.com/andrew.gerasymchuk.7",
-    facebook_id:  "andrew.gerasymchuk.7"
+    facebook_id:  "100000757433278"
   },
   {
     name:         "Pavló Flakh",
