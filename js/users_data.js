@@ -1315,7 +1315,7 @@ var users_data = [
     name:         "Наталья Войчук",
     address:      "Billstedt",
     lat:          53.5388,
-    lng:          ,
+    lng:          10.1273,
     url:          "https://www.facebook.com/vmnatali",
     facebook_id:  "vmnatali"
   },
@@ -1330,8 +1330,8 @@ var users_data = [
   {
     name:         "",
     address:      "",
-    lat:          ,
-    lng:          ,
+    lat:          0,
+    lng:          0,
     url:          "",
     facebook_id:  ""
   },
