@@ -1319,7 +1319,14 @@ var users_data = [
     url:          "https://www.facebook.com/vmnatali",
     facebook_id:  "vmnatali"
   },
-  
+  {
+    name:         "Margo Harmony",
+    address:      "Harburg",
+    lat:          53.4608,
+    lng:          9.9836,
+    url:          "https://www.facebook.com/maria.zlagoda",
+    facebook_id:  "maria.zlagoda"
+  },
 ];
 
 
